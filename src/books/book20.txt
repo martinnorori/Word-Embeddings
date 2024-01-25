@@ -1,0 +1,3132 @@
+﻿The Project Gutenberg eBook of Pneumatic conveying
+    
+This ebook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this ebook or online
+at www.gutenberg.org. If you are not located in the United States,
+you will have to check the laws of the country where you are located
+before using this eBook.
+
+Title: Pneumatic conveying
+
+
+Author: E. G. Phillips
+
+Release date: December 2, 2023 [eBook #72290]
+
+Language: English
+
+Original publication: London: Sir Isaac Pitman & Sons, 1921
+
+Credits: Bob Taylor, deaurider and the Online Distributed Proofreading Team at https://www.pgdp.net (This file was produced from images generously made available by The Internet Archive)
+
+
+*** START OF THE PROJECT GUTENBERG EBOOK PNEUMATIC CONVEYING ***
+
+
+
+
+  Transcriber’s Note
+  Italic text displayed as: _italic_
+  Bold text displayed as: =bold=
+
+
+
+
+  PITMAN’S TECHNICAL PRIMER SERIES
+
+  _Edited by R. E. NEALE, B.Sc., Hons. (Lond.)
+  A.C.G.I., A.M.I.E.E._
+
+
+  PNEUMATIC CONVEYING
+
+
+
+
+PITMAN’S TECHNICAL PRIMERS
+
+Edited by R. E. NEALE, B.Sc. (Hons.), A.C.G.I., A.M.I.E.E.
+
+
+In each book of the series the fundamental principles of some
+sub-division of engineering technology are treated in a practical
+manner, providing the student with a handy survey of the particular
+branch of technology with which he is concerned. Each 2s. 6d. net.
+
+ =THE STEAM LOCOMOTIVE.= By E. L. AHRONS, M.I.Mech.E.
+
+ =BELTS FOR POWER TRANSMISSION.= By W. G. DUNKLEY, B.Sc.
+
+ =WATER-POWER ENGINEERING.= By F. F. FERGUSSON, A.M.I.C.E.
+
+ =PHOTOGRAPHIC TECHNIQUE.= By L. J. HIBBERT, F.R.P.S.
+
+ =HYDRO-ELECTRIC DEVELOPMENT.= By J. W. MEARES, M.Inst.C.E.
+
+ =THE ELECTRIFICATION OF RAILWAYS.= By H. F. TREWMAN, M.A.
+
+ =CONTINUOUS-CURRENT ARMATURE WINDING.= By F. M. DENTON.
+
+ =MUNICIPAL ENGINEERING.= By H. PERCY BOULNOIS, M.Inst.C.E.
+
+ =FOUNDRYWORK.= By BEN SHAW and JAMES EDGAR.
+
+ =PATTERNMAKING.= By BEN SHAW and JAMES EDGAR.
+
+ =THE ELECTRIC FURNACE.= By FRANK J. MOFFETT, B.A., M.I.E.E.
+
+ =SMALL SINGLE-PHASE TRANSFORMERS.= By E. T. PAINTON, B.Sc.
+
+ =PNEUMATIC CONVEYING.= By E. G. PHILLIPS, M.I.E.E., A.M.I.Mech.E.
+
+ =BOILER INSPECTION AND MAINTENANCE.= By R. CLAYTON.
+
+ =ELECTRICITY IN STEEL WORKS.= By W. MACFARLANE, B.Sc.
+
+ =MODERN CENTRAL STATIONS.= By C. W. MARSHALL, B.Sc.
+
+ =STEAM LOCOMOTIVE CONSTRUCTION AND MAINTENANCE.= By E. L. AHRONS,
+ M.I.Mech.E., M.I.Loco.E.
+
+ =HIGH TENSION SWITCHGEAR.= By H. E. POOLE, B.Sc., A.C.G.I.
+
+ =HIGH TENSION SWITCHBOARDS.= By the Same Author.
+
+ =POWER FACTOR CORRECTION.= By A. E. CLAYTON, B.Sc., A.K.C.
+
+ =TOOL AND MACHINE SETTING.= By P. GATES.
+
+ =TIDAL POWER.= By A. STRUBEN, O.B.E., A.M.I.C.E.
+
+ =SEWERS AND SEWERAGE.= By H. G. WHYATT, M.Inst.C.E. M.R.S.I.
+
+ =ELEMENTS OF ILLUMINATING ENGINEERING.= By A. P. TROTTER, M.Inst.C.E.
+
+ =COAL-CUTTING MACHINERY.= By G. E. F. EAGAR, M.Inst.Min.E.
+
+ =GRINDING MACHINES AND THEIR USE.= By T. R. SHAW, M.I.Mech.E.
+
+ =ELECTRO-DEPOSITION OF COPPER.= By C. W. DENNY, A.M.I.E.E.
+
+ =DIRECTIVE WIRELESS TELEGRAPHY.= By L. H. WALTER, M.A.
+
+ =TESTING OF CONTINUOUS-CURRENT MACHINES.= By C. F. SMITH, D.Sc.,
+ M.I.E.E.
+
+ =ELECTRICAL TRANSMISSION OF ENERGY.= By W. M. THORNTON, D.Sc.
+
+ =STEAM ENGINE VALVES AND VALVE GEAR.= By E. L. AHRONS, M.I.Mech.E.
+
+ =MECHANICAL HANDLING OF GOODS.= By C. H. WOODFIELD.
+
+ =INDUSTRIAL AND POWER ALCOHOL.= By R. C. FARMER, D.Sc.
+
+ =POSITION AND DIRECTION FINDING.= By L. H. WALTER, M.A., A.M.I.E.E.
+
+ =HIGH TENSION TRANSFORMERS.= By W. T. TAYLOR, M.Inst.C.E.
+
+
+LONDON: SIR ISAAC PITMAN & SONS, LTD.
+
+[Illustration:
+
+  _Frontispiece_
+
+INTAKE END OF PNEUMATIC CONVEYOR.
+
+Adjustable to follow rise and fall of vessel on tidal waters.]
+
+
+
+
+  PNEUMATIC
+  CONVEYING
+
+  A CONCISE TREATMENT OF THE
+  PRINCIPLES, METHODS AND APPLICATIONS
+  OF PNEUMATIC CONVEYANCE OF MATERIALS
+
+  WITH SPECIAL REFERENCE TO THE CONVEYING
+  AND ELEVATING OF HEAVY SOLID MATERIALS
+
+  FOR ENGINEERS, WORKS MANAGERS,
+  AND STUDENTS
+
+  BY
+  E. G. PHILLIPS
+  M.I.E.E., A.M.I.MECH.E.
+
+  [Illustration: PITMAN’S
+  TECHNICAL
+  PRIMERS]
+
+  LONDON
+  SIR ISAAC PITMAN & SONS, LTD.
+  PARKER STREET, KINGSWAY, W.C.2
+  BATH, MELBOURNE, TORONTO, NEW YORK
+  1921
+
+
+  PRINTED BY
+  SIR ISAAC PITMAN & SONS, LTD.
+  BATH, ENGLAND
+
+
+
+
+PREFACE
+
+
+Pneumatic Conveying has recently attracted great and widespread
+interest amongst engineers and others interested in the economical
+handling of materials. The information hitherto available on the
+subject has, however, been so meagre and so indefinite that the author
+offers this concise treatment of principles, methods and applications
+in order that those who are anxious to avail themselves of this
+flexible means of transportation may know just how, and why, it is
+worthy of their attention.
+
+The high cost of labour, coupled with the desire to improve the
+condition of the worker who has had to work in a dust-laden atmosphere
+of an objectionable, or even poisonous nature, will create such a
+demand for pneumatic conveying plant that present day methods of
+transportation will be revolutionized in many branches of industry.
+
+The author has had three years’ experience with one of the first
+pneumatic plants erected in this country, for use with coal, ashes,
+and flue dust, and he has conducted numerous experiments on other
+materials, such as sand, oxide, potatoes, various chemicals, etc., and
+has endeavoured to add his quota to the information available for the
+benefit of other engineers and works managers.
+
+Experiments proved that with certain materials the discharger was the
+weak link in the chain, as wet sticky materials entering at a high
+velocity “packed” tight and would not discharge freely. This led to
+experiments which, with the valuable assistance of Mr. H. B. Clarke,
+A.M.I.E.E., resulted in overcoming this difficulty by means which are
+described fully in Chapter VI.
+
+No attempt has been made to go fully into the questions of domestic
+vacuum cleaners, removing dust from manufacturing processes, etc. The
+chief aim has been rather to bring into prominence the flexibility and
+other advantages of moving air as a means of conveying and elevating
+heavy solid materials which hitherto it has been thought could not be
+handled in this manner.
+
+The author gladly acknowledges the interest and information given by
+the following firms and individuals Mr. H. B. Clarke, A.M.I.E.E.;
+Messrs. Ashwell & Nesbit; Boby, Ltd.; H. J. H. King & Co., Ltd.; The
+Lamson Store Service Co.; and the Sturtevant Engineering Co., Ltd.
+
+  E. G. PHILLIPS.
+
+ NOTTINGHAM.
+
+
+
+
+CONTENTS
+
+
+  CHAP.                                                             PAGE
+
+        PREFACE                                                      vii
+
+  I.    SYSTEMS AND APPLICATIONS OF PNEUMATIC CONVEYING                1
+
+  II.   DETAILS OF PLANT—PUMPS, EXHAUSTERS AND AIR FILTERS            10
+
+  III.  DETAILS OF PLANT (CONTD.)—DISCHARGERS, PIPE LINES AND SUCTION
+        NOZZLES                                                       28
+
+  IV.   TYPICAL INSTALLATIONS FOR GRAIN                               45
+
+  V.    PNEUMATIC COAL HANDLING PLANTS                                54
+
+  VI.   THE INDUCTION CONVEYOR                                        62
+
+  VII.  STEAM JET CONVEYORS                                           72
+
+  VIII. MISCELLANEOUS APPLICATIONS OF PNEUMATIC CONVEYING             80
+
+        BIBLIOGRAPHY                                                 105
+
+        INDEX                                                        107
+
+
+
+
+ILLUSTRATIONS
+
+
+  FIG.                                                              PAGE
+
+     Intake end of Pneumatic Conveyor, with rise and fall
+     adjustment                                           _Frontispiece_
+
+  1. King’s pneumatic system. Steam-driven air pump                   12
+
+  2. Sturtevant rotary blower                                         17
+
+  3. Nash “Hydro-Turbo” exhauster                                     19
+
+  4. Sturtevant “Cyclone” dust separator                              21
+
+  5. Automatic bag filter                                             23
+
+  6. Mollers’ air filter                                              24
+
+  7. Sturtevant wet filter                                            26
+
+  8. Fixed discharger with glass receiver                             30
+
+  9. Sturtevant patent junction                                       33
+
+  10. Course taken by material round bend                             35
+
+  11. Segment-back bend                                               35
+
+  12. Lobster bend                                                    35
+
+  13. King full-way junction valve                                    37
+
+  14. Suction nozzles for high pressure systems                       40
+
+  15. Sturtevant equipment removing wood refuse from double tenoning
+      machine                                                         41
+
+  16. Sturtevant equipment removing dust from sand papering machines  42
+
+  17, 18. Ancient and Modern                                          46
+
+  19. Typical grain-handling plant                                    47
+
+  20. Floating pneumatic transport plant                              49
+
+  21. Portable pneumatic plant on railway truck                       50
+
+  22. Portable railway plant in operation                             52
+
+  23. Pneumatic unloading of coal                                     55
+
+  24. Discharger for coal conveying plant                             57
+
+  25. Brady steam jet ash conveyor                                    75
+
+  26. Typical Lamson inter-communication carrier                      82
+
+  27. Tube central in wholesale drug house                            87
+
+  28. Lamson distributing station                                     88
+
+  29. Stationary turbo-exhauster with dust separator                  91
+
+  30. Portable turbo-exhauster                                        91
+
+  31. Suction cleaning for railway carriage cushions                  93
+
+  32. Sturtevant equipment for office cleaning                        93
+
+  33, 34. Air-lift pumping                                            98
+
+
+
+
+PNEUMATIC CONVEYING
+
+
+
+
+CHAPTER I
+
+SYSTEMS AND APPLICATIONS OF PNEUMATIC CONVEYING
+
+
+Conveying by mechanical means has existed for many centuries, and is
+one of the earliest forms of man’s ingenuity towards labour saving
+as we know it to-day. The pneumatic conveyance of materials from one
+position to another, either horizontally or vertically, is the most
+recent form of automatic handling of solid substances.
+
+=Genesis and Applications of Pneumatic Conveying.= The need of water
+for human consumption and for irrigation purposes caused the ancient
+inventor to carry out nearly all his experiments with that substance,
+and the first instance we have of anything approaching pneumatic
+conveying is the well known injector in which steam is passed through
+one pipe, placed at right angles to a second pipe, at such a velocity
+as to reduce the pressure in the second pipe to below the atmospheric
+pressure. The excess of atmospheric pressure over the reduced pressure
+in the second pipe then drives up the latter the material (in this case
+water) in which the end of the pipe is submerged. This invention is
+about a century old, if it emanated from the Marquis Mammonry d’Eclet,
+in 1818, as is usually believed.
+
+The first practical application of this invention to other than liquid
+materials is supposed to have been in connection with the conveying of
+cotton in a loose form, as an improvement upon the manual shifting of
+large bales. This development was made about 1867, and after this date
+great progress was made, principally in connection with the handling of
+grain, wheat, malt, etc., and largely owing to the work of an American
+named A. K. Williams.
+
+At the present day it is hardly possible to enumerate all the
+successful schemes for the pneumatic handling of materials. In addition
+to installations for the conveyance of materials such as those
+mentioned above is the pneumatic tube, for conveying papers, messages
+and cash in offices and between shop counter and cash desk, etc.
+Also, there is the suction cleaner, ranging in application from the
+handling of refuse and dust from saw mills and woodworking machinery
+to the removal of fine abrasive and poisonous particles in certain
+manufacturing processes. Small suction cleaners are, of course, now
+quite familiar domestic appliances. The sand-blasting machine is really
+another example of a self contained pneumatic conveyor on a small
+scale.
+
+Ashes, coal, oranges, sugar, chemicals, spent oxide, iron ore, spent
+tanning bark, and many other materials are now actually transported,
+elevated or conveyed pneumatically, and it must here be acknowledged
+that the first really successful plant in this country was due entirely
+to the initiative and inventive genius of Mr. Frederic Eliot Duckham,
+late Chief Engineer to the Millwall Dock Co., who in 1888 commenced
+experiments in grain-handling by suction. In 1892 he produced a very
+successful floating plant for unloading ships into land silos, and this
+installation was the prototype of many similar plants which were placed
+in commission all over the world. Many improvements have been carried
+out and numerous patents issued for pneumatic handling apparatus, but
+the original scheme as designed by Mr. Duckham has never been departed
+from seriously.
+
+
+=Fundamental Principles and Components.= The pneumatic conveyance of
+materials along pipes is most easily understood when the equipment
+is considered as a pump producing a high velocity stream of air in
+which the material to be transported is floating, and with which it is
+carried through the pipe system. It is necessary fully to understand
+this, as it is otherwise difficult to realize how it can be possible to
+lift solids at the rate of 100 tons or more per hour, several hundred
+feet up a pipe in which the vacuum does not exceed about 7 inches
+mercury column (say, 11 lb. per sq. in. absolute).
+
+A modern pneumatic conveying plant of the _suction type_ comprises:
+(1) An _exhauster_, or an air pump, of either the reciprocating or
+the rotary type. (2) A _suction nozzle_. (3) A _discharger_, whereby
+the material is extracted from the pipe line at the desired position,
+without “breaking” or losing the vacuum. (4) One or more appliances
+for _filtering_ the air and extracting any foreign material which may
+have been carried over from the discharger and which would damage the
+cylinder walls of the exhauster if allowed to enter the plant.
+
+It is necessary here to mention that all pneumatic conveying is not
+done by exhausting, but frequently by the use of _pressure_, that is,
+that the air is not sucked along the transport line but is actually
+blown in under pressure by fans, air compressors, or rotary blowers,
+according to the circumstances.
+
+The _suction system_ is preferable when it is required to convey
+materials from several outlying points to one central storage bunker
+or area. On the other hand, the _pressure system_ is less expensive in
+first cost, when it is required to transport from one central point to
+numerous outlying plants in the area to be served. A combination of the
+suction and pressure systems is now being developed for the handling of
+materials in cases where neither the “suction” nor the “blowing” scheme
+alone can be said to be successful. This combined system is known as
+the _induction system_ and is discussed in Chapter VI.
+
+
+=Advantages over Mechanical Conveyors.= The reasons why pneumatic
+methods for elevating and conveying are now receiving such attention
+are to be found in the advantages of pneumatic over mechanical
+conveying. These may be summarized as follows: Economy in labour;
+flexibility of plant both in design and operation; elimination of dust
+and its harmful effects on the employees; and in many instances the
+recovery of dust which is valuable and which would otherwise represent
+a serious financial loss. Wear and tear on moving parts is reduced to
+a minimum. All obstacles such as buildings, roads, rivers, railways,
+etc., can be overcome easily since the conveyor is “only a pipe.”
+Should circumstances not permit of a straight single run for such
+appliances as bucket elevators, it is usually necessary to bag and
+cart the material from one position to another, but this is avoided by
+pneumatic elevating and conveying, because the pipe can be carried up
+or down, round corners, over or under roads, etc.
+
+Hundreds of instances still exist in which loose material in barges is
+shovelled into bags, which are lifted by an ordinary friction hoist
+into a building over the quay-side. The sacks are wheeled by manual
+labour into the building, and emptied into hoppers or silos, the empty
+bags being lowered again for a further cycle of operations. This costly
+multiple handling may be obviated by the erection of a small pipe
+line which will automatically feed itself at one end, and discharge
+evenly and continuously into the receptacle provided. The whole of the
+“moving parts” may be situated in one position, which enables them to
+be carefully inspected, oiled and kept in repair, etc.
+
+Cranes, hoists, telphers, and belt conveyors all have their special
+spheres of usefulness, but no other plant can claim all the advantages
+of the pneumatic system as outlined above.
+
+
+=Pneumatic Conveying Systems.= As mentioned above there are three main
+systems of pneumatic conveying, viz.—
+
+(1) Conveying by air _above_ atmospheric pressure.
+
+(2) Conveying by air _below_ atmospheric pressure.
+
+(3) Conveying by air _above and below_ atmospheric pressure, by a
+combination of (1) and (2), known as the _induction_ system.
+
+Although these are the main headings under which the subject may be
+considered, they must be sub-divided further as follows—
+
+
+=(1) Conveying above Atmospheric Pressure.= (_a_) _Low pressure
+systems_ using single-stage centrifugal fans, and suitable for
+conveying such materials as wool, cotton, bark, chopped straw, paper
+clippings, sawdust, shavings, jute, and fibrous materials of many kinds.
+
+(_b_) _High pressure systems_ using multi-stage fans and blowers of the
+rotary type or positive design, and suitable for conveying materials
+of a denser nature such as dry sand, sugar, etc., also for pneumatic
+despatch tubes.
+
+
+(=2=) =Air Suction Systems.= (_a_) _Large pipe systems_ using ordinary
+steel plate centrifugal fans, and applied to handling the waste
+products and injurious dust in many industries, such materials being
+sawdust and shavings from woodworking machinery; emery dust from
+grinding wheels; dust and lint from polishing mops; leather dust from
+heel and sole scouring plants; starch dust in confectionery works;
+colour dust in works manufacturing pigments; and bronze dust in
+printing works. Many other examples will no doubt occur to the reader.
+
+(_b_) _Small pipe systems_ using multi-stage centrifugal fans or rotary
+blowers. Under this section the most important plants are undoubtedly
+those for domestic vacuum cleaning. Large stationary plants for this
+purpose are installed in many hotels, offices, buildings, workshops,
+theatres, large private houses, etc.
+
+(_c_) _Heavy commercial systems_ in which the fan is replaced by
+a reciprocating exhauster, producing currents of air suitable for
+conveying such materials as coal, ashes, sugar, leather tanning bark,
+ores, granite chippings, wood blocks, oranges, etc., which it would be
+impossible, or undesirable, to pass through a fan.
+
+
+(=3=) =Induction System.= A compressed air injector is used to produce
+a partial vacuum on the suction or inlet end of the pipe system, and to
+produce a pressure above atmospheric at the delivery end, thus avoiding
+the necessity for a discharger. This system, which is suitable for use
+with heavy sticky materials—such as hot sugar, saturated sand, finely
+ground heavy ores, spent oxide as used in gas works, etc.—is now being
+developed so as to make possible pneumatic conveyance of all manner of
+materials which are unsuitable for passing through the discharger, or
+air lock, of a suction system.
+
+
+=Factors influencing Design.= In the strict sense of the term,
+“pneumatic conveying” really implies the conveyance of a quantity of
+material from one point to another, using air as the conveying agent.
+As will be seen from the above, the subject also embraces the removal
+of comparatively light dust produced in many industrial processes.
+Although the same name is implied in both cases, the methods to be
+adopted vary, and each case must be considered on its own merits.
+
+With regard to a conveying plant proper, the points for consideration
+in the initial stages are as follows—
+
+(1) The nature of the material to be handled and the quantity required
+in a given time.
+
+(2) The size of the largest and smallest pieces of materials and the
+density of the material.
+
+(3) The distance over which the material is to be conveyed.
+
+(4) The difference in level between the point at which the material is
+fed into the system, and the point where it is delivered.
+
+(5) The method and regularity of feeding the material into the system.
+
+(6) The means to be adopted for separating the material from the
+conveying air at the desired point of delivery.
+
+There is a very important distinction between plants in which the
+material passes _through_ the fan or blower and those in which the
+conveying is carried out entirely under suction.
+
+The latter system has many advantages, but it carries with it the
+necessity of providing automatic delivery of the material without
+seriously impairing the suction. In order to accomplish this, some
+form of “air lock” is required, and a necessary feature of this is a
+device with close-fitting surfaces or more or less air-tight valves.
+The simpler plan is undoubtedly to pass the material through the fan,
+as there is then no question of breaking the suction in order to get
+the material out of the system. It is common practice to convey for
+long distances such materials as wood chippings and sawdust, cotton,
+jute, wool, esparto grass, paper chippings and many other materials.
+In all cases, however, the designer is confronted with the problem of
+separating the material from the air, and in many instances to do this
+satisfactorily is more difficult than the actual conveying; especially
+is this so with certain sticky materials or materials which will
+readily “pack” or build up when entering any mechanical discharger at
+the high velocity necessary in the suction system.
+
+
+
+
+CHAPTER II
+
+DETAILS OF PLANT PUMPS, EXHAUSTERS AND AIR FILTERS
+
+
+A pneumatic conveying plant of practically any type comprises the
+following five main components: (1) A _pump_ or _exhauster_ to create
+a partial vacuum in the pipe line and so induce a high velocity air
+current in which the material will be conveyed. (2) An _air filter_
+in which any light dust carried over beyond the receiver is trapped,
+to prevent its entering the exhauster where it would quickly damage
+the piston rings and cylinder walls of reciprocating pumps. (3) A main
+_receiver_ or _discharger_, and occasionally one or more subsidiary
+receivers, in which the conveyed material is extracted from the system
+and discharged into the receptacle or on to a dump as required. (4) The
+_pipe line_, _junctions_, etc., to connect the point of supply with the
+desired point of delivery. (5) The _suction nozzle_ through which the
+material enters the system, together with the “free air” which is to
+act as the conveying medium.
+
+
+=Pumps and Exhausters.= The type of apparatus used for creating the
+flow of air varies according to the ideas of the numerous makers of
+the plants. It must be remembered that for a pump working under the
+conditions required for pneumatic plants it is not a high vacuum that
+is required; the most important function is to handle very large
+quantities of air at a comparatively low vacuum.
+
+The most efficient type of plant for dealing with large quantities of
+air is certainly the reciprocating pump, although several makers are
+now devoting a lot of attention to the multi-stage turbine type of
+blower, or exhauster. The probability is that this type may shortly be
+as efficient as the reciprocating pump, and if so it is almost sure to
+be used extensively, as it has distinct advantages in other directions
+compared with the cylinder and piston type. This remark has special
+reference to the high pressure system for conveying sand, coal, sugar,
+etc., and does not apply to the “small pipe system” detailed later.
+
+In dealing with ashes, flue dust, crushed iron ore, and similar
+abrasive materials, it is essential that the air passing through
+the pump should be filtered thoroughly so that no dust should enter
+the cylinders and cut the walls and piston rings. The turbo-blower,
+having no rubbing surfaces, would suffer little or no damage from a
+small percentage of dust, hence the filtering equipment might be less
+elaborate and less costly. No lubrication would be necessary in the
+rotary pump (except, of course, at the bearings), hence no difficulties
+would arise owing to oil acting as a dust trap, as is sometimes the
+case in reciprocating pumps with defective air filters.
+
+
+[Illustration: FIG. 1.—KING’S PNEUMATIC SYSTEM. STEAM-DRIVEN AIR PUMP.]
+
+
+KEY TO FIG. 1.
+
+ _A_ = cylinder of double-acting steam engine driving the whole machine.
+
+ _B_ = semi-rotary valve controlling admission of steam to _A_.
+
+ _C_ = steam gland for piston rod connecting _L_ and _M_.
+
+ _D_ = Corliss-type air-inlet valves with semi-rotary motion. These
+ valves are alternately open to the pipe system and the air cylinder
+ _E_ when the piston is travelling in one direction, and are closed
+ (both to cylinder and air pipe) directly the piston reverses its
+ travel.
+
+ _E_ = cylinder of double-acting air pump.
+
+ _F_ = valve gear for operating the Corliss valves, _D_ this gear is
+ driven by a pin out of centre on the flywheel.
+
+ _G_ = cross-head and slide.
+
+ _H_ = big-end bearing and crank.
+
+ _I_ = flywheels on the main shaft.
+
+ _J_ = eccentric and strap operating the valve, _B_, on the steam
+ cylinder.
+
+ _K_ = leather air-outlet valves held on two sides by metal strips. The
+ leathers are opened by air pressure on the exhaust stroke, and are
+ drawn on to their gridiron seatings during the inlet stroke.
+
+ _L_ = steam piston.
+
+ _M_ = air piston.
+
+_Note._—If preferred, the steam cylinder may be omitted and the air
+pump driven by electric motor direct-coupled or geared to the main
+shaft. Belt drive on to the flywheels or special pulley is possible
+but not advisable.
+
+=Typical Reciprocating Pump.= Fig. 1 shows the general construction
+of a vertical steam-driven air pump such as is generally used in
+present day plants. The pump shown has a stroke of 14 ins., with an
+air-cylinder diameter of 28 ins. The machine is a dry air pump, and is
+fitted with Corliss inlet valves and special leather exhaust valves:
+it is fitted with ring-oiling bearings and automatic continuous
+lubrication, and under test it shows a mechanical efficiency of 78 per
+cent. from power input to air horse-power delivered. Such a pump is
+suitable for a plant handling 20 to 25 tons per hour and, if preferred,
+the pump may be driven through gearing from an electric motor on the
+same bed-plate.
+
+
+=Rotary Blowers and Exhausters.= The turbine blower and exhauster
+depend entirely upon centrifugal force for their power to compress or
+exhaust air or gas, etc. The use of centrifugal force makes this type
+of machine resemble the centrifugal water-pump, but radical differences
+in design have to be introduced, seeing that water is not compressible,
+whereas air is capable of compression, and alterations are also
+necessary, due to the great difference in specific gravity of the two
+substances.
+
+Owing to the very low specific gravity of air, the machine must run
+at a much higher speed than would be required with water to develop a
+given pressure. The high speed of the steam turbine has given impetus
+to the design of large exhausters on the turbine principle.
+
+It will be recognized that, when air is made to flow steadily along
+a conduit or pipe of gradually diminishing cross-sectional area, the
+velocity of the air must increase correspondingly, in order that
+the constant quantity may flow through the smaller section of pipe.
+Increasing the velocity will diminish the pressure due to the greater
+kinetic energy to increase the velocity. The converse is the result of
+passing air at constant pressure through a channel gradually increasing
+from a smaller to a larger area, the velocity being then reduced and
+the pressure increased.
+
+Now if a number of impellers be mounted turbine fashion on a high
+speed shaft, and the casing be so designed that the area between
+stages gradually increases, the air will enter the first stage and
+will be caught up by the impeller and accelerated until it leaves
+No. 1 impeller at a higher pressure and velocity. Leaving the casing
+through a diffuser which gradually increases in area the velocity is
+transformed into pressure in the diffuser. The air therefore travels
+to the second stage with its initial pressure plus the pressure due to
+the conversion of velocity in the first diffuser. This process may be
+repeated stage by stage until almost any desired pressure is obtained.
+
+As there are no rubbing surfaces in this type of machine it is
+particularly suitable for the work under consideration, and when
+developed for efficient running in small sizes it will be very
+effective in “booming” pneumatic conveying.
+
+
+=Sturtevant Blower or Exhauster.= The Sturtevant Engineering Co.,
+Ltd., has developed a special rotary blower or exhauster suitable for
+use with pneumatic conveying installations and, although this machine
+has not a water-seal for surfaces under pressure (as in the Nash
+Hydro-Turbo described below), it has a number of distinctive points,
+and the discharge of the air, or the intake of air, as the case may be,
+occurs at a more nearly constant pressure and with smaller pulsations
+than with any other rotary blower known to the writer.
+
+The sectional diagrams (Fig. 2) show the four successive stages in the
+movement of the rotors. In position (1), chamber _D_ has been filled
+with air, while chamber _E_ is discharging air against pressure in the
+delivery pipe. In position (2), chamber _D_ is cut off from the inlet,
+and the air in it is being carried round. Blade _C_ has entered pocket
+_Z_, which is filled with air under pressure; this air, however, in
+turn is released into pocket _Y_ through leakage passage _O_. Continued
+rotation carries the rotors _A_, _B_ and _C_ to position (3), and the
+remaining pressure in _Z_ is now being transferred to _X_ by leakage
+passage _N_.
+
+As the fourth position is reached, chamber _F_ is filling and pocket
+_Y_ is discharging its air. When further rotation brings impeller blade
+_B_ into the discharge passage, the air in space _D_ will be delivered
+from the blower. After leaving position (4), the rotors again reach a
+position similar to that shown at (1), and the cycle is then repeated.
+
+[Illustration: FIG. 2.—STURTEVANT ROTARY BLOWER.]
+
+A study of the above will convince the reader that this blower is
+ingenious and very suitable for the class of work under investigation.
+
+For certain conditions the Roots blower and the multifarious types of
+drum pumps or blowers can be used, seeing that it is quantity rather
+than pressure that is required, but it is essential that the most
+reliable and efficient exhauster should be installed in accordance
+with the conditions for each installation, bearing in mind always the
+questions of dust, speed, lubrication, etc.
+
+
+=Nash Hydro-Turbine.= An entirely new type of rotary exhauster was
+recently illustrated in the _Chemical Age_, and a study of Fig. 3
+will show the principle of this pump. This pump was built just before
+the war by Messrs. Siemens-Schuckert, and similar pumps are now being
+introduced by the Nash Engineering Co. (U.S.A.), and are known as the
+Nash Hydro-Turbine.
+
+This exhauster has a cylindroid external casing, inside which is
+a shaft carried on the two end brackets and having mounted upon
+it a crude type of water-wheel. It should be noted here that this
+arrangement has the effect of bringing the edges of the wheel into a
+position of eccentricity in relation to the inside of the external
+casing.
+
+The wheel shaft is connected directly to a high speed electric motor,
+and when the pump is running the water which is fed into the casing is
+thrown by centrifugal force to the periphery of the casing and thus
+forms certain air pockets into which the air of the system is drawn.
+The air is now locked between the hub of the wheel and the sheet of
+water surrounding the outside of the wheel. As the wheel revolves,
+the air in each pocket in turn is compressed into a smaller capacity
+and eventually, when it arrives opposite the outlet point, it at once
+escapes into the atmosphere due to its additional pressure.
+
+[Illustration: FIG. 3.—NASH “HYDRO-TURBO” EXHAUSTER.]
+
+Tracing the wheel right round we then find that another pocket is
+formed into which the air is again sucked, and so the cycle of
+operations continues, two compressions and extractions occurring per
+revolution of the spindle. For many materials such a pump has the great
+advantage that the water acts as a wet filter and traps all the dust
+in suspension which can be washed out in the form of sludge. Where the
+dust is valuable this characteristic would be a disadvantage, but it is
+very useful in plants dealing with corrosive and abrasive materials.
+
+
+=Lubrication.= The lubrication of cylinders in the reciprocating type
+of pump has been mentioned in connection with the necessity for taking
+special care in filtering _all_ dust from the air pulled over from
+the discharger. Ordinary oil makes a sticky surface to which any dust
+adheres readily, and the two combined make an abrasive mixture which
+will quickly score and damage the walls of the cylinders. One firm, at
+least, has gone a long way towards removing this trouble by inserting
+pieces of solid graphite into the piston: this provides dry lubrication
+and produces a very smooth surface on which dust finds great difficulty
+in obtaining a “footing.”
+
+The use of “Aquadag” is also fairly successful: this lubricant consists
+of deflocculated graphite in such very fine particles that they will
+remain in suspension in water even without mechanical agitation.
+“Aquadag” is fed into the cylinders in the same way as oil and deposits
+its graphite in the pores of the cylinder walls, whilst the water is
+atomized and blown out with the air.
+
+The turbine exhauster solves the problem by eliminating the necessity
+for internal lubrication, and the perfect filtering of the air is then
+not so important.
+
+
+=Air Filters.= It is impossible to deal with practically any granular
+material without carrying over more or less dust beyond the discharger,
+and to obviate the damage and inconvenience which would result from
+allowing this to enter the exhauster, an air filter is fitted between
+the discharger and the pump. Many types of air filters have been
+introduced, and representative examples are described below.
+
+[Illustration: FIG. 4.—STURTEVANT “CYCLONE” DUST SEPARATOR.]
+
+
+=“Cyclone” Separators.= For such materials as grain, malt, etc.,
+the ordinary type of cyclone separator is frequently mounted inside
+the receiver. This separator consists of an inverted cone: the dust
+laden air enters at the top and the heavy material circulates inside,
+and gradually falls to the bottom from which it is discharged into
+suitable containers (see Fig. 4).
+
+The cyclone is an excellent separator, and has the advantage that it is
+self-cleaning, and offers little or no resistance to the flow of air,
+but so large a cone would be required to separate very fine dusts that
+it frequently becomes impossible to use this type of plant.
+
+
+=Bag Filters.= An alternative type of air filter is the ordinary bag
+filter, which consists of a number of closely woven fabric “stockings”
+in a cast iron container. The air is led into the casing so that it
+passes down through the inside of the tubes, through the fabric, where
+it deposits the greater proportion of the dust, and then out to the
+atmosphere.
+
+Naturally, after working a certain period, the fabric becomes choked
+with deposited dust, and it is then necessary to dislodge the dust by
+shaking the “stocking” somewhat violently. This is usually carried out
+by a mechanically operated vibrating apparatus, but cleaning is done
+more effectively and time is saved if the air is shut off from the
+filter while the dust is dislodged. This is done most conveniently by
+having two similar filters installed, working in parallel; then, when
+cleaning becomes necessary, all the air is passed through each filter
+in turn, whilst the other is cleaned.
+
+The bags or tubes hang vertically in the casing, and as the air is
+brought in at the top and discharged in a downward vertical direction,
+it naturally discharges the heavier material straight into the bottom
+of the casing, owing to the inertia of the heavy particles and the high
+velocity of the incoming air.
+
+[Illustration: FIG. 5.—AUTOMATIC BAG FILTER.
+
+Showing filter bags through the open access doors]
+
+Fig. 5 illustrates a Sturtevant automatic bag filter. In this case the
+air is brought in at the bottom. The cleaning of the bags is effected
+automatically. At frequent intervals and in rotation, each section
+of bags is cut off automatically from the supply of dust-laden air
+by closing the outlet valve of that section. At the same time, that
+section is opened to the atmosphere at the top, causing a reverse
+current of air downwards. The bags are then agitated automatically and
+the dust adhering to the fabric drops, and is blown into the discharge
+hopper below. The opening and closing of the valves is accomplished
+by a simple mechanism driven by the pulley shown at the top of the
+illustration. Where the amount of dust to be handled is large and
+continuous it can be extracted from the hopper by a worm or screw
+conveyor, or, as in some other patterns, by a rotary valve placed in
+the bottom of the hopper.
+
+
+[Illustration: FIG. 6.—MOLLERS’ AIR FILTER.]
+
+=Mollers’ Air Filter.= This apparatus consists of separate fabric
+pockets mounted on a frame. The pockets are rectangular and taper
+towards the top. Referring to Fig. 6, _A_ is the frame on which the
+fabric is stretched, and _B_ is the fabric pocket. As many of these
+units as necessary are mounted side by side in an adjustable frame,
+each unit having fixing and tension bolts. This arrangement permits a
+filter of any desired capacity to be built up quickly, and facilitates
+repairs and cleaning of filter bags.
+
+
+=Wet Filters.= The type of filtering apparatus used for dealing
+with poisonous material, emery dust from grinding wheels, sand from
+sand-blasting apparatus, etc., is usually of the wet type, of which
+Fig. 7 is a good example. This apparatus consists of a tank having a
+wire shelf on which a layer of coke is supported. The tank is partially
+filled with water, the level of which is regulated by an overflow.
+
+The dust-laden air impinges on the surface of the water, and the major
+portion of the dust is trapped by being driven actually into the water.
+The dust particles too light to be brought into contact with the water
+are compelled to pass through the coke screen and are there arrested.
+If necessary, the scheme can be made to deal with finer dusts by having
+the coke constantly sprayed with water. The dust is reclaimed from the
+tank in the form of sludge or mud through the door or valve provided
+for that purpose.
+
+[Illustration: FIG. 7.—STURTEVANT WET FILTER.]
+
+Another type of air filter which might be developed in connection with
+the pneumatic handling of material consists of a very slowly revolving
+drum or cylinder, which is fitted with a continuous corrugated tape
+running spirally from the centre to the extreme edge of the casing.
+The space between the corrugated sheets is very small, and as a stream
+of water is continually running over and around the divisions, the
+air passing through the very tortuous path provided is bound to come
+into contact with these wet surfaces and give up its dust or other
+contamination, which is washed off when it arrives at the bottom of
+the cylinder. Naturally, this or any other wet filter would not be
+used where the recovery of dust in dry form was desired.
+
+Another form of wet filter consists of a chamber of suitable
+proportions (according to the amount of air to be cleansed), fitted
+with racks in which are placed strips of glass at an angle of 45° to
+the flow of air, and at 90° to one another. The glass strips have a
+serrated or prismatic face, and the air carries the dust forward into
+the angles of the glass. A very fine water spray keeps the glass moist
+and eventually trickles down to the drain channels, washing the glass
+in its course.
+
+The development of apparatus for _air-washing_ has received
+considerable attention during recent years, owing to the necessity of
+having pure, dust-free air for ventilating turbo-generators, etc., and
+no difficulty should present itself in obtaining satisfactory results
+for pneumatic conveying plants, except in cases when the collection and
+retention of dust is required. In these cases the bag or fabric sheet
+filter is the only type available.
+
+
+
+
+CHAPTER III
+
+DETAILS OF PLANT—(_Contd._)
+
+DISCHARGERS, PIPE LINES AND SUCTION NOZZLES
+
+
+=Dischargers.= The advocates of “blowing” material, instead of
+“sucking” it through the pipe, often lay great stress on the alleged
+difficulties of extracting the material from the system without
+allowing air leakage. This, however, has been overcome successfully
+by several designers and is not the serious difficulty so frequently
+suggested, providing that the material is suitable for this means
+of treatment. The only exception to this is, when the high velocity
+at which the material enters the discharger—say, 45 to 50 ft. per
+sec.—causes it to pack or bind so that it will not fall by gravity into
+the rotary valves and then out into the storage bins.
+
+The function of the discharger is to cause the incoming material to
+lose its velocity and to fall into a compartment which can eventually
+be discharged after it has been moved from the low pressure to which
+the chamber itself is subjected.
+
+This is best accomplished by the use of a rotary valve, somewhat
+similar to a paddle-wheel, which is revolved slowly but continuously.
+This wheel can be placed either vertically or horizontally at the
+bottom of the receiving chamber; the material enters the large chamber
+above, loses its velocity, drops by gravity, is caught in the box
+formed by the revolving paddle-wheel, and gradually is carried forward
+out of the chamber, eventually passing over an aperture through which
+it again gravitates to the bunker, silo, or other container. Probably
+the horizontal type of rotary valve is preferable because, owing to the
+increased surface exposed to the vacuum, the “suction” effect assists
+in holding the valve up to its seat.
+
+When dealing with such materials as malt and grain, it is an advantage
+to be able to inspect the material entering the receiver, and at least
+one maker secures this advantage by constructing the chamber of a glass
+cylinder to which are bolted cast iron top and bottom pieces carrying
+the necessary pipe connections and discharge valves. Fig. 8 illustrates
+this construction and also shows fairly clearly the method of driving
+or revolving the discharge valves. The top flange of the valve has
+a worm wheel tooth cut around its periphery and the actuating worm
+engages in this wheel, thereby obtaining a large reduction in speed.
+In other words, the worm can be driven by a light, high speed belt and
+pulley, and still revolve the valve at a very low speed; such gearing
+is smooth, silent running, and altogether admirable for such a purpose
+as the one under consideration.
+
+[Illustration: FIG. 8.—FIXED DISCHARGER WITH GLASS RECEIVER.]
+
+A very common form of separator, which is used almost invariably on
+plants dealing with wood shavings, sawdust and similar materials,
+is known as the cyclone or centrifugal separator. This is usually
+constructed with a sheet steel body with the inlet for the dust-laden
+air at the top, and so arranged that the air enters tangentially.
+Inside there is a smaller cylinder of sheet steel forming an air
+outlet, and the laden air sweeps round the annular space between the
+body and the inner cylinder. This results in a whirling action and the
+material entrained in the air is projected by centrifugal force against
+the side of the separator body. In some instances an internal ledge,
+or plate of “corkscrew” form, leads the material downwards towards the
+outlet at the bottom of the separator.
+
+In the case of some of the denser materials which can be conveyed by
+air, it is sufficient to connect the discharge pipe to an open bin or
+chamber, the material in such cases being heavy enough to separate
+itself by the action of gravity.
+
+Mr. Gordon S. Layton, describing dischargers in his paper, before the
+Engineering Group of the Society of Chemical Industry (Birmingham,
+April, 1920), stated—
+
+ “There are two types of dischargers in use: The first consists of a
+ large steel box divided into two compartments. This box is arranged
+ to oscillate about a horizontal axis, so that each compartment
+ alternately is brought under the lower opening of the receiver vessel.
+
+ “The other type of discharger consists of a bucket wheel rotating
+ continuously inside a closely fitting casing. The material which is
+ being conveyed falls into the pockets of the bucket wheel when these
+ are on the top of their revolution, and is passed out through an
+ opening in the lower side of the casing.
+
+ “It will be obvious that the working of both types is liable to be
+ interrupted by the jamming of a foreign body (such as a piece of wood
+ or a bolt) in the working parts; in each case, special mechanism for
+ driving the discharger has been devised, to avoid the interruption
+ resulting from such blocking, and to enable the discharger to keep on
+ working continuously.”
+
+The rotary type of discharger is preferable to the tipping box type,
+for the following reasons: because the rotary discharger is more easily
+kept air-tight, works without vibration, and gives a practically
+continuous stream, whereas the discharge from the tipping box occurs as
+large isolated masses of material.
+
+It is impossible to give specific details concerning the discharger
+because, in all cases, the conditions under which the plant has to
+work affect the whole design. For instance, where the working is
+only intermittent, e.g. the removal of ashes from a boiler-house,
+the discharger can be eliminated, provided that the ash bunker is
+large enough to hold the quantity of ashes to be dealt with at each
+operation. In such a case, the ash container would be capable of being
+exhausted, and the material entering as before would simply drop by
+gravity into the container and remain there until the pump was shut
+down; it would then be allowed to gravitate into the truck or other
+conveyance for disposing of the ashes.
+
+Hand-holes for cleaning, and easy access to the interior are essential
+in the design of a discharger, especially if the material to be handled
+is liable to “pack” when entering at a high velocity.
+
+
+=Pipe Lines.= One of the most important points in the designing of a
+pneumatic conveying system is the correct lay-out of the pipe line.
+
+[Illustration: FIG. 9.—STURTEVANT PATENT JUNCTION.]
+
+A fatal mistake often made in low pressure and exhausting systems is
+that the numerous branch pipes are added to or altered after the makers
+have left the original installation. Almost invariably, branches thus
+added are made to approach the main trunk at too great an angle, with
+the result that eddies and whirlpools are created within the pipe,
+seriously reducing the output of the main trunk. So essential is it
+that this junction should be correct and that the two streams should
+run as nearly parallel as possible, that the Sturtevant Engineering
+Co. has patented a special junction (Fig. 9) to bring together the two
+streams of air in the main and the branch pipe practically parallel, as
+shown.
+
+
+=Bends.= In connection with high pressure systems, the following points
+are of great importance. All vertical and horizontal straight lengths
+may be of a light section constructed in steel. Bends should be avoided
+whenever possible, and those which are inevitable should be made in
+hard cast iron, with every possible provision for easy replacement of
+wearing parts.
+
+The wear takes place at the point of actual contact which, in elbows,
+is practically confined to one place only. The material rushes to
+the end, strikes the bend, and—suddenly changing its direction of
+travel—whirls off down the next straight length. The impact and the
+resulting wear on the pipe, as well as the breaking of the material
+conveyed, are naturally much greater in elbows than in easy bends, but
+if the breaking of the material is not detrimental, elbows should be
+employed, as they are less costly and can be replaced more quickly and
+easily.
+
+Certain raw materials—such as salt, soda, lime and various
+chemicals—which have to be ground before use, may be prepared to
+a considerable extent for this operation by the use of elbows. On
+the other hand, easy bends should be employed for material which it
+is desired to convey without damage, e.g. malt, coal, and granular
+substances, which are finally required in granular form and not as
+powder.
+
+The wear in bends is only on the external radius of the bend, and then
+is inclined to be localized at certain points rather than distributed
+over the full sweep of the bend (see Fig. 10); this being so, it is
+often desirable so to construct the bends that the back is in segments
+which can be renewed easily (see Fig. 11). Alternatively, the bend may
+be constructed on the “lobster” principle (Fig. 12), only the worn
+sections being replaced when overhauling. It is not necessary always to
+take a bend at an angle of 90°, and if the small short angle sections
+are interchangeable, then almost any angle can be constructed by
+building up with the necessary number of sections.
+
+[Illustration: FIG. 10.—COURSE TAKEN BY MATERIAL ROUND BEND.]
+
+[Illustration: FIG. 11.—SEGMENT-BACK BEND.]
+
+[Illustration: FIG. 12.—LOBSTER BEND.]
+
+With regard to the straight lengths of pipe, it is necessary to ensure
+a smooth internal bore, especially at the joints. It is therefore
+desirable that the joints should be self-aligning as, if this is not
+the case, eddies will be formed which will cause the material to
+deviate from the centre of the pipe, striking the side at one or more
+definite points where holes will eventually be worn through the pipe.
+
+In vertical pipes the evidence of wear is negligible, in fact the
+conveyed material presumably does not touch the pipe at all, but
+travels up the centre of it as a core.
+
+
+=Capacity of Pipes.= The velocity of the air passing up the pipe should
+be from 40 to 50 ft. per sec., equivalent to about 35 miles per hour.
+
+The conveying capacity of an efficient pipe line is approximately
+15 per cent. of the total capacity: in other words, if the total
+cross-sectional area of the pipe be taken as 100, the effective
+cross-sectional area as regards conveying is 15.
+
+
+=Flexible Connections.= The flexible connections attached to the
+permanent pipes may be ordinary tubing, as made by the Flexible
+Metallic Co. Phosphor bronze and other metals have been tried, but the
+extra cost is not justified. A loose screw collar connection makes
+possible easy fixing, and permits the flexible connection to be removed
+easily to prevent damage when not in use. Rubber tubing, reinforced
+with steel wires, would be best where it is important that the material
+conveyed should not be damaged, but the wear on such tubing is so
+rapid that the extra cost is not recovered by the saving in damage to
+ordinary materials. The length of the flexible pipe should be such that
+the movement over the greatest area to be covered does not put too
+great a strain on the bending properties of the tubing. On the other
+hand, unnecessary increase in the length of the flexible pipe merely
+increases the cost of one of the shortest lived portions of the plant,
+the “scrap value” of which is almost negligible.
+
+[Illustration: Showing Three Positions of the Valve. FIG. 13.—KING
+FULL-WAY JUNCTION VALVE.]
+
+=Valves, etc.= For use where branches are inserted in the main pipe
+line for convenience in either lifting over, or discharging over, a
+large area, special appliances have been designed and these should
+be used, as they do not create eddies or increase the pipe friction
+appreciably, or reduce the carrying capacity of the pipe line. The King
+patent full-way junction valve is an excellent example, and is shown
+in Fig. 13, from which it will be seen that a full bore circuit can be
+completed in any of three directions. This valve has no corners where
+the material can collect, hence the pipes are sucked perfectly clean
+the moment the feed is shut off.
+
+Another convenient fitting of this description is the Boby patent pipe
+switch. This device is similar to a switch as used on a railway track,
+and by its use three separate side positions may be connected with
+one part on the main transport line. When the switch is thrown over
+so as to connect to any one particular branch, all other branches are
+disconnected.
+
+
+=Telescopic Pipes.= When the unloading of ships is carried out by
+“suction” it is necessary to make provision for lengthening or
+shortening the vertical suction pipe, or pipes (see Frontispiece),
+because the ship will rise as relieved of its cargo, and the suction
+nozzle will simultaneously move towards the bottom of the hold as the
+cargo is discharged.
+
+A still greater difficulty is encountered in tidal rivers, where the
+rise and fall may be many feet and must be allowed for continuously.
+This is best done by the introduction of telescopic pipes in the
+vertical downright pipes. These must be so constructed that while it
+is fairly easy to increase or decrease their length, the pipes must
+remain air-tight at the joints and connections.
+
+Where the rise and fall is small the difference in level may be
+compensated by a ball and socket joint, and a counter balance on the
+jib arm, but this method has its limitations.
+
+
+=Pipes for High Pressure Systems.= Coming now to the “small pipe,” high
+pressure systems as used for vacuum cleaning plants, the pipe lines
+must be designed and installed carefully and on a liberal basis. It
+is mistaken policy to attempt to economize by using a smaller main on
+branch pipes. Small diameter pipes cause excessive losses by friction,
+and naturally are less efficient as regards power consumption.
+
+The frictional losses in a system of this description vary directly
+as the length of the pipe, and inversely as the fifth power of the
+diameter. Large pipes are therefore very desirable, not only because
+of their greater carrying capacity—which is very desirable—but also
+because such things as matches, hairpins, etc., are picked up every day
+by an installation as fitted in hotels, restaurants and theatres. Such
+material quickly clogs small pipes and causes endless trouble and delay.
+
+The flexible hose should be as short as is consistent with ease of
+working, because the frictional losses in this class of tubing are very
+great. It would be preferable to increase the number of wall plugs,
+rather than have to use very long lengths of flexible hose.
+
+[Illustration: FIG. 14.—SUCTION NOZZLES FOR HIGH PRESSURE SYSTEMS.]
+
+=Suction Nozzles.= Probably more patents have been taken out on new
+suction nozzles than on any other portion of a pneumatic suction
+plant. The chief desiderata for a nozzle on a _high pressure system_
+for wheat, coal, ashes, etc., are that it be of light construction
+to allow of easy manipulation by the operator, and that it have some
+means of allowing a “free air” inlet, making it impossible to choke
+the nozzle by burying the end. It is an advantage to be able to
+regulate the free air inlet according to the conditions existing with
+different materials. The same nozzle that will act best while dealing
+with a large bulk of material, may be quite unsuitable when it becomes
+necessary to “clean up” in the corners of the hold or waggon. Fig. 14
+shows different types of nozzles for high pressure plants, but as the
+efficiency and capacity of the plant can be affected seriously by
+the design of this portion of the apparatus, it is highly advisable
+to allow the designer to have a free hand and to make use of the
+experience already gained.
+
+[Illustration: FIG. 15.—STURTEVANT EQUIPMENT REMOVING WOOD REFUSE FROM
+DOUBLE TENONING MACHINE.]
+
+Nozzles designed for _low pressure systems_, dealing with dust,
+shavings, etc., have to be built to suit the machine to which they are
+attached, and they therefore vary indefinitely in details of design and
+construction. The same remarks apply to the nozzles for use on suction
+cleaning plants. Figs. 15 and 16 show how the suction nozzles are
+adapted to the machines.
+
+[Illustration: FIG. 16.—STURTEVANT EQUIPMENT REMOVING DUST FROM
+SAND-PAPERING MACHINES.]
+
+It must be remembered that in low pressure systems handling shavings,
+dust, etc., the problem is quite different from that in high pressure
+systems handling wheat, etc. In the case of removing dust or shavings
+from a machine, the material is already in motion, and only requires
+drawing forward and into the pipe system, but in the case of conveyors
+for wheat, coal, etc., and in the case of suction cleaners, the
+material to be moved is heavy and stationary and has to be lifted and
+started in motion before it can be carried away. This necessitates a
+much higher air velocity through the collecting nozzles.
+
+
+=Idle Nozzles should be Closed.= It is perhaps advisable to draw
+attention at this point to the disadvantages of using more than one
+suction nozzle on one receiver at one and the same time. The reader is
+asked to recall the fact that the material is not lifted by vacuum, but
+that the production of a partial vacuum causes a stream of air to pass
+up the pipe at high velocity. The material to be conveyed is entrained
+with the air, and due to the frictional contact between the particles
+of air and the particles of material, the latter is lifted and carried
+forward.
+
+If the conveying plant is to be efficient and of reasonable capacity,
+the pipes must be relatively large, and in order that the desired
+partial vacuum may be maintained in them (establishing a vigorous air
+current) without the use of an unduly large pump, it is important that
+air be admitted only through those nozzles which are actually in use.
+Also, when more than one nozzle is in use at the same time, it is
+necessary to keep each nozzle covered with material to such an extent
+that the same amount of air passes into each pipe. Unless this is done
+a large quantity of air will pass up one pipe, and a small quantity
+up the other, and the amount of material taken in at each nozzle will
+vary as the quantity of air varies. To consider an extreme case,
+suppose that the man operating at one of the pipes allows his nozzle
+to become exposed. Air will rush in at this nozzle to the full capacity
+of the pump, with the result that little or no air will pass up the
+second pipe, and consequently no material either. Thus, if one man is
+sufficiently neglectful to leave his nozzle idle and open, he renders
+practically useless the other nozzle or nozzles on the same main.
+
+Even with care this is bound to occur to a certain extent, as is shown
+by the figures given by makers for the estimated power consumption,
+viz., about 1 h.p. per ton on single-nozzle plants, and 1½ h.p. on
+double-nozzle plants.
+
+Under these conditions it should be considered whether it is more
+advisable to install one large plant with two nozzles, or two small
+plants, each with only one nozzle. The decision depends upon the extra
+cost of power for the double-nozzle plant compared with the higher
+capital charges on the two single-nozzle plants.
+
+
+
+
+CHAPTER IV
+
+TYPICAL INSTALLATIONS FOR GRAIN
+
+
+The pneumatic principle has been applied to the handling of grain in
+bulk to a much greater extent than to any other material. As previously
+stated, the original successful plant invented and designed by Mr.
+Frederic Duckham was for the handling of wheat for the Millwall Docks
+Co., and the success of this plant was such that it was imitated by
+engineers in this country and abroad with equally satisfactory results.
+
+Grain lends itself admirably to pneumatic transport because it is
+easy of flow, regular in size, and practically self-feeding. Also,
+the removal of dust, which is incidental to pneumatic conveying, is
+a special advantage where grain is concerned. Figs. 17 and 18 show
+clearly the advantages of pneumatic conveying in point of simplicity
+and labour saving.
+
+
+=Typical Quayside Plant.= Fig. 19 shows a typical lay-out for a
+comparatively small plant handling 50 tons per hour. The diagram is
+almost self explanatory.
+
+_A_ represents the special suction nozzle through which the grain
+enters the system, together with the “free air” which acts as the
+conveying medium.
+
+[Illustration: FIG. 17.—ANCIENT.]
+
+[Illustration: FIG. 18.—MODERN.]
+
+[Illustration: FIG. 19.—TYPICAL GRAIN-HANDLING PLANT; 50 TONS PER
+HOUR.]
+
+_B_ is a length of flexible pipe to enable the nozzle to sweep the
+width of the barge, the length being dealt with by moving the boat to
+within the radius of the swivel arm _E_.
+
+_C_ is a permanent pipe carried on the jib arm which is mounted on
+a swivel joint; _B_ is another short flexible pipe to permit of the
+swivelling already mentioned.
+
+_F_ indicates the receiver into which the grain is deposited, and _G_
+the special rotary valves, for releasing the material from the system
+without interfering with the vacuum of the conveying line.
+
+_H_ illustrates the twin air filters which are provided with valves,
+so that each of the filters can be isolated in turn from the rest of
+the plant for cleaning of the fabric tubes, without interrupting the
+continuous working of the plant.
+
+_J_ indicates the connecting pipes between the receiver, air filters,
+and pump, and it should be noted they are considerably larger than
+those on the suction end _C_, this being necessary to allow for the
+expansion of the air under vacuum.
+
+_K_ is the reciprocating air pump, driven electrically by the motor
+_M_ through large helical gear wheels, which act as flywheels and are
+helpful in equalizing the torque required by the pump.
+
+_L_ is the outlet pipe for the air as it is exhausted from and by the
+pump.
+
+[Illustration: FIG. 20.—FLOATING PNEUMATIC TRANSPORT PLANT; 200-250
+TONS PER HOUR.]
+
+[Illustration: FIG. 21.—PORTABLE PNEUMATIC PLANT ON RAILWAY TRUCK.]
+
+This plant is simple, but every possible modification can be added
+that circumstances make desirable; such as discharging on to a belt
+conveyor, for feeding the silos or other storage bins.
+
+Where grain is bought by bulk it would be necessary to check the
+weight, and in this case an automatic weigher would be installed, into
+which the material would be discharged from the receiver. With a bag
+filter the collected dust can also be weighed, the total weight being
+then obtained by addition.
+
+
+=Typical Floating Plant.= The most popular development of the above
+type of plant is the floating plant, designed for erection on a hulk,
+or barge, and intended to suck grain from an ocean-going steamer
+and discharge it into barges or lighters on the other side of the
+discharging plant, as indicated in Fig. 20. The plant shown is one
+of many in actual operation and its construction may be followed
+by reference to the description of the plant shown in Fig. 19, the
+same index letters being used in each case. One great advantage of
+floating plants is that the difference in height due to tides is of no
+consequence.
+
+
+=Portable Plants.= Still another modification consists of a complete
+quay-side plant mounted like a travelling crane, so that it can be
+moved longitudinally along steel rails on the quay-side. This plant is
+particularly useful where large cargo ships have to be emptied and then
+allowed to remain at their berth until reloaded with another cargo.
+
+[Illustration: FIG. 22.—PORTABLE RAILWAY PLANT IN OPERATION.]
+
+Complete plants have also been mounted on railway trucks, the engine
+and pump in this case being on a second waggon (see Figs. 21, 22). In
+such a case the plant has to be mounted very low, and it is necessary
+to lift from the under-side of the truck to, say, a railway waggon, by
+means of an adjustable belt or bucket elevator (shown at the extreme
+left of Fig. 21).
+
+Many other applications will suggest themselves to the reader, and
+sufficient has been said to prove that for the handling of wheat the
+pneumatic system is distinctly flexible and convenient; also, it
+effects a great saving in labour, which is an important consideration
+nowadays. “Bushelling,” conveying, and weighing by hand used to cost
+well over a shilling per ton, which figure was reduced to just over
+1½d. per ton by pneumatic conveying; these are pre-war costs in both
+instances, but the relative saving effected by pneumatic conveying is
+certainly not less under present conditions.
+
+All the previous remarks also apply to linseed and cotton seed in
+bulk, maize, oats, and in fact all cereals. Such materials have to be
+accepted as and when the ships arrive irrespective of convenience, and
+it is an important advantage of pneumatic conveying that the material
+can be lifted and discharged in the most convenient position; also,
+when the barge or ship has departed the same apparatus can be utilized
+to lift the material from its position in store to the cleaning or
+grinding plant.
+
+
+
+
+CHAPTER V
+
+PNEUMATIC COAL-HANDLING PLANTS
+
+
+The writer was directly interested in the erection and installing of
+one of the first plants installed in this country for the elevation and
+conveying of coal, and a description of the various details may give a
+good idea of a complete plant, handling coal on a commercial scale.
+
+The conditions to be complied with are as follows: 20 tons of “slack”
+per hour, to be raised 90 ft. above canal level or 80 ft. above road
+level.
+
+The coal is brought alongside the power-house by canal barges of 25
+tons capacity, or by tipping steam waggons from the railway sidings,
+a distance of one mile away. In both cases the coal is required to be
+elevated into overhead bunkers of 600 tons capacity placed vertically
+over the boilers.
+
+[Illustration: FIG. 23.—PNEUMATIC UNLOADING OF COAL AT MESSRS. BOOTS,
+LTD. (NOTTINGHAM).]
+
+In the first case, immediately the barge is alongside, the flexible
+suction pipe is lowered into the barge (Fig. 23), and coal immediately
+begins to rise in the pipe and is discharged as required. Little or
+no handling of the coal is required after the suction nozzle has once
+reached the bottom of the barge; all that it is necessary to do is to
+bring the barge gradually up to the nozzle, the coal then “avalanching”
+down to the nozzle. Fig. 24 shows the discharger placed on girders
+over the bunkers into which it discharges continuously. The coal enters
+at _A_ and the major portion of the fuel is discharged through the
+rotary valves _B_.
+
+The _coal discharger_ itself consists of a cast iron vessel with two
+King’s patent rotating valves. These are designed in the form of a
+slightly conical taper divided into four sections, one portion of
+the circular valve being under vacuum, and the other under ordinary
+atmospheric pressure. The outlet of the valves is larger than the inlet
+to allow the coal which is in the valve to drop out easily. Over each
+valve is also provided a four-armed sweeper to prevent any damp coal
+from forming a cone inside. The discharger is provided with two inlets
+with full-way bored valves, so that the coal can be drawn either from
+the water side or from the land side at will. After the coal has been
+deposited in the main discharger, there is provided a supplementary
+discharger consisting of a vessel 6 ft. high by 30 ins. diameter, with
+two inlet pipes of 8 ins. diameter, to provide a contra-flow, so that
+any particles of coal dust in the air will meet one another in the 30
+ins. box at equal velocity and be deposited. The small particles are
+delivered by a supplementary rotary discharge valve which is set to run
+very much slower than the main discharger valves.
+
+[Illustration: FIG. 24.—DISCHARGER FOR COAL CONVEYING PLANT.]
+
+The main discharger valves are driven by worm gearing, the latter
+having one right-hand thread and one left-hand thread, so that the end
+thrust on the worms is neutralized. Ball bearings are provided and
+the small motor which drives all three valves is coupled up with an
+electrical device designed by the author. This device ensures that if
+anything happens to the top discharge valves—so that the 3 h.p. motor
+driving them cuts out, owing to an overload or other cause—then the
+main motor also is cut out by the opening of its circuit breaker. This
+prevents any “flooding” of the pipes and dischargers.
+
+It may be mentioned that the valves are so designed that a portion of
+the weight of each valve is carried by the vacuum, so that the vertical
+wearing lift on the valves when at work is very slight.
+
+The _intake pipes_ for the coal are 5 ins. diameter, and they are
+provided with heavy cast iron bends, having extra thick metal on the
+outside radius to allow for the wearing effect of coal passing at the
+rate of 20 tons per hour.
+
+The pipe into the barge is provided with a flexible steel pipe at the
+suction nozzle end, for convenience of handling. India-rubber piping
+has been tried, but the extra cost does not justify its continued use.
+
+The nozzle is made as light as possible for convenience of handling,
+and is fitted with a special “free air” inlet for the regulation of the
+amount of air necessary to blend with the coal.
+
+
+=Ash Handling.= In addition to unloading coal, the above plant is
+capable of dealing with hot ashes which are first crushed in a
+portable clinker breaker, electrically driven, which runs under all
+the ash hoppers of the boilers. The ash when crushed gravitates into
+funnel-topped tee-pieces, inserted in the main ash-conveying pipe,
+whence it is immediately sucked up into an overhead ash hopper to await
+the convenience of the waggons which dispose of it on the “tips.”
+
+
+=Flue Cleaning.= A 3 in. suction pipe has been run round the
+boiler-house in such positions that flexible hose can be attached
+for flue cleaning purposes. In this case the cleaners simply use an
+enlarged nozzle such as is supplied with a domestic equipment and the
+dust is removed from the flues, economizer soot chambers, etc., into
+the ash hopper without trouble or dust.
+
+The success of this plant is best indicated by the fact that, at
+the moment of writing, a duplicate plant is being erected. Owing to
+the growth of the business, and its demand for power and steam, the
+original plant has to be worked continuously on coal, so that the ash
+and flue dust problem has become acute again.
+
+
+=Portable Floating Plant.= A third plant ordered by the same firm is
+of considerable interest. This is intended to be mounted in a barge
+so as to be portable. Owing to lack of space in close proximity to
+the power-house, considerable difficulty is found in keeping adequate
+stocks of coal on the site except the 600 tons in the overhead bunkers.
+In order to secure continuity of working, it is essential that as much
+fuel as possible be stored, and for this purpose a coal pile has been
+made about half a mile away from the works, adjoining the canal. Ashes
+can be disposed of on certain fields a few miles outside the city in
+swamps and pools caused by subsidences, due to colliery workings.
+
+The portable plant is therefore arranged to operate as follows: the
+barge is self-propelled by a 30 h.p. paraffin engine which can be
+coupled by clutches to either the propeller or a Roots blower, the
+latter being the exhauster for the portable suction plant.
+
+The barge is loaded with ashes for disposal, and then proceeds under
+its own power to the site where they are to be dumped. The clutch is
+operated disconnecting the propeller and operating the blower. The
+suction side of the blower is coupled up with the pipe line in the
+boat and the barge feeds the plant by means of the flexible hose: the
+discharge pipe is raised over the towing path so as not to interfere
+with passing traffic, and the ashes are blown out into the swamps
+previously mentioned. It will readily be recognized how simple this
+unloading becomes compared with trying to dig out the ashes with either
+a spade or a fork.
+
+The empty barge then returns to the coal pile and takes up a load of
+coal in a similar manner, then proceeding to the power-house under
+its own power and being unloaded by the original fixed pneumatic
+installation in the ordinary way.
+
+The coal arriving by road is tipped into a concrete hopper excavated
+below the ground level, and so designed with sloping sides that it is
+self feeding into a suction pipe connected to the bottom of the hopper.
+The same procedure occurs except that in this case the coal enters the
+main discharger at the top (_E_, Fig. 24).
+
+It is interesting to note that the very fine dust collected from the
+air filter is eagerly sought after by the foundry trade, and what would
+at first appear to be a waste product impossible to burn, is actually a
+valuable by-product of the plant.
+
+
+
+
+CHAPTER VI
+
+THE INDUCTION CONVEYOR
+
+
+Numerous means have been devised to cause the necessary current of air
+to flow along the conveyor pipe, but the ideal method is probably yet
+to seek. Probably the most satisfactory and economical system, until
+recently, was the positive pump exhausting a vacuum chamber; the latter
+receiving the material, and discharging it into the receptacle provided
+for that purpose.
+
+The difficulties arising in practice, however, incited the inventive
+genius of engineers responsible for the operation of these plants, and
+a number of attempts were made to induce an air current by other means.
+
+
+=Ejector Systems.= Steam ejectors were fitted to the closed tank
+provided for the reception of the material, thus converting the tank
+into a vacuum chamber, and eliminating the discharger. In other cases
+injectors, also operated by steam, were placed at intervals along the
+conveyor pipe, usually at such convenient points as 90° bends, and the
+slight vacuum created by the condensation of the steam and also by the
+velocity of the jet, induced an air current which swept the material
+along with it into the receiver chamber.
+
+Although both these methods are in practical use, their applications
+are strictly limited to materials which do not suffer by contact with
+heat and moisture; the methods are therefore used principally for
+conveying ashes and soot from boiler furnaces and flues. Ashes formed
+by the combustion of coal contain large amounts of abrasive matter, and
+it is very important that all this matter should be extracted from the
+air, before entering the exhauster of the suction system. The steam jet
+cuts out the exhauster entirely, but absorbs an excessive amount of
+power in the form of steam. It has the advantage, however, of quenching
+the ashes on their way to the settling tank. For flue dust, however,
+the steam jet is unsuitable, as the condensed vapour causes the
+material to cake in the pipes, and the latter rapidly become choked,
+involving considerable delay and trouble in cleaning out. The ejector
+system is used for this material, the tank being of the closed type,
+and the necessary vacuum being created by a steam ejector fixed in a
+branch at the side near the top, the dust striking a baffle and falling
+by gravity to the bottom of the tank. A special air-tight gate or valve
+is opened to empty the tank.
+
+
+=Air Induction.= The cardinal feature of the induction system is the
+ease with which materials may be handled which cannot be conveyed by
+the suction method.
+
+Sand, sugar, salt, soda ash, and many other substances of a granular
+nature, which are very troublesome when conveyed by the suction
+method, may be dealt with economically by the induction system and,
+although the latter is only in its experimental stages at the moment of
+writing, it is possible that it may displace all other systems in the
+near future.
+
+The induction system differs from the suction system in that the air
+flow along the pipe is induced by a jet of air, at very high velocity,
+fixed at any convenient distance from the intake nozzle of the conveyor
+pipe, and the material conveyed is discharged either from an open
+end into an open container, or by some form of cyclone. The closed
+discharger or container, with its baffles and rotary valves or air
+locks, is eliminated, and the substance to be handled has a free and
+unrestricted flow throughout the length of the pipe.
+
+
+=Advantages of the Induction System.= The advantages of the induction
+conveyor may be summarized as follows: (1) Low first cost, the power
+unit being the only expensive item. (2) Low maintenance cost, there
+being no moving parts and little wear. (3) Low labour cost, practically
+no attendance being required. (4) Flexibility and ease of handling. (5)
+High efficiency of power unit and reliability of system. (6) Ability to
+handle materials which are easily damaged.
+
+In the case of a suction plant handling grain or coal, the intake end
+of the conveyor is fairly flexible, and the nozzle may be operated
+over a fairly large radius, say, all over the floor of a vessel’s
+hold. The discharge end, however, is fixed, unless a cumbersome and
+expensive gantry is provided to permit of the discharge apparatus being
+moved about. Even should the discharger be mounted on rails, the area
+over which it can operate is limited by the rails on which it runs.
+With a large plant, this would mean that a number of dischargers would
+be required to lift from a ship into a warehouse or store, from the
+latter into bunkers or silos, or perhaps into trucks or waggons. Each
+discharger would require a separate exhauster and a separate intake,
+and valuable space would be occupied by the plant and expense incurred
+for machinery which would not be in use for a considerable part of the
+time.
+
+The induction system, however, is flexible at both intake and discharge
+ends of the pipe. It is only necessary to lower the nozzle into the
+material to be removed, and to place the delivery pipe over the
+receptacle for the material, and to turn on the air jet. The delivery
+may be handled easily while working, and the material distributed where
+required; or suitable valves and branches may be fixed, and a number
+of discharge pipes used in turn to deliver into different bins or into
+various floors.
+
+The source of power for the operation of the induction conveyor is
+the air compressor. As every operating engineer is well aware, all
+machinery is kept in better condition and runs more economically, when
+it is housed in proper environment and receives skilled attention. The
+compressor, in this case, need not be erected near the work, but may
+be placed some distance away, preferably in the power station, as the
+pipe line connecting the conveyor with the machine will have a very
+small bore, compared with the air pipe to the exhauster on a suction
+plant, and will also be inexpensive to erect and maintain. In the
+instance quoted above, where a number of suction and delivery points
+are required, only these small pipes need be run from a common main,
+and turned on and off as needed, the compressor running continuously at
+or near its most economical load.
+
+
+=Construction of Induction Plant.= The induction conveyor may be said
+to be a compromise between the suction and blowing methods. The air jet
+is fixed in the conveyor pipe at a suitable angle, some distance above
+the intake nozzle, and a stream of air at high velocity is passed along
+the pipe in the direction of the discharge. This air jet is designed
+carefully for the duty it has to perform, and its discharge entrains
+the free air in the pipe, causing it to move in the required direction.
+A partial vacuum is created in the conveyor pipe, behind the jet, and
+free air rushes in at the intake, carrying the material along with it.
+
+In order to effect the greatest economy in the operation of this plant,
+it is important that the power unit should be carefully chosen, and
+that the pipe system should be designed to give the full pressure at
+the jet. With modern multiple-stage compressors of the rotary or
+reciprocating type, working at about full load, very high efficiencies
+can be obtained, and the pressure pipe line should be arranged to
+avoid loss by friction as far as possible. The receiver should be of
+sufficient capacity to absorb any pulsations, and to throw down oil and
+moisture before the air enters the pipes. A separator of good design
+should also be incorporated.
+
+In designing the conveyor pipe line, bends should be avoided when
+possible, by erecting the lifting pipes at an angle with the
+horizontal. It is not sufficiently well appreciated that bends and
+angles rapidly increase the frictional resistance to the flow of the
+conveying medium, and mean loss of power; in fact there is no doubt
+that the difference between success and failure in pneumatic conveying
+is largely a matter of design. Many substances which are otherwise
+quite suitable for handling in this manner are very fragile, and any
+friction on pipe walls or contact with metal baffles at high velocity,
+so reduces or pulverizes them that their value is reduced considerably.
+In the case of ashes from boiler furnaces, this effect is advantageous
+rather than otherwise, but when dealing with coal it is necessary to
+arrange the system so that the minimum amount of damage is done to the
+material. Some coals, such as Derbyshire bituminous, is not easily
+broken or abraded, and can be lifted very satisfactorily by the usual
+suction method. Welsh coal, on the other hand, is very friable, and if
+conveyed into the usual discharger, will emerge in a finely divided
+state, even though it may be fed to the intake in large pieces. For
+handling such materials, the induction method is most suitable, as the
+discharge end may be arranged so that the material is not delivered at
+high velocity, and does not strike any obstacle which would reduce it
+or break it up. It is possible to elevate potatoes and even oranges by
+the induction process, and it is quite within the bounds of probability
+that eggs may be delivered in this manner, without more than the usual
+percentage of breakages.
+
+In conveying many materials, which are conveyed whilst hot, it is
+better if they can be kept at practically the same temperature at the
+delivery as when they enter the pipe. This is provided for by heating
+the air to a suitable temperature just before it enters the jet.
+
+This is also an additional source of economy in operation. As is
+well known, air, like all other gases, increases in volume with the
+temperature, and if the heat lost by the air cooling after compression
+be replaced at the jet, considerably more power is obtained. If the
+compressor is situated in such a position that most of the heat of
+compression is delivered at the jet, there is little to be gained by
+reheating. In most cases, however, the air has returned to normal
+temperature by the time it reaches the point where it is to be used,
+and, if a suitable air heater is installed at this point, the volume
+may be increased greatly by a comparatively small expenditure.
+
+A heater consisting of tubes through which the air passes, these
+tubes surrounded by water under high steam pressures, offers the most
+convenient and satisfactory method of heating the air. The air pipes
+between the heater and conveyor pipe should be lagged in order to
+retain the heat.
+
+The pressure of the air may be increased by 50 per cent. by heating to
+the temperature of steam at 200 lbs. per sq. in. gauge pressure, while
+the cost will be comparatively small. Theoretically, a gain of about
+40 per cent. in economy should be obtained, and the practical results
+should be reasonably close to this figure.
+
+
+=Air Receivers.= It is a decided advantage in practice to install an
+efficient separator between the ordinary receiver of the compressor and
+the pipe line, as large quantities of moisture will travel over with
+the air, and will be condensed directly they meet some cooler surface.
+The ordinary receiver is supposed to fulfil this function, but it does
+not do so because it is, in effect, an enlargement of the pipe line,
+and, being filled with hot air under pressure, has no tendency to
+condense the moisture. The latter does not begin to cool to any extent
+until it reaches the small diameter pipes, with the consequence that
+these pipes contain quantities of oil and water which eventually reach
+the jet, and are blown into the material handled.
+
+Where compressors of the rotary or turbine type are installed, there
+will be only water in expansion, but it is good practice to remove
+this, even though the air be re-heated, because the moisture will
+recondense in the conveyor pipe, and tend to choke the latter when
+small grained substances are being conveyed.
+
+
+=Types of Compressors.= Reference has already been made to the power
+unit, and it is hardly within the scope of this work to describe in
+detail the various machines available. As, however, the economy of
+air conveying depends in a large measure on the cost of power, it is
+evident that the compressor should be of the most suitable type for the
+duty to be performed.
+
+For small installations, single-stage reciprocating machines, driven
+directly by steam engines or by electric motors are, no doubt, the most
+suitable. In the case of large plants, using the air continuously in
+a number of air jets, where the load factor is high, it is certainly
+more important to install a two or three-stage compressor, owing to
+the greater economy of working. The larger capital expenditure will
+be compensated by the considerable saving of energy. As compared with
+single-stage compression to 100 lbs. gauge pressure, a saving of 20
+per cent. can be effected by three-stage working, and with a constant
+load of from 75 per cent. to 100 per cent. of full load, a turbine or
+electrically driven rotary multiple-stage compressor is decidedly the
+best type to adopt.
+
+In plants where exhaust steam can be used to advantage, as in large
+generating stations, a steam turbo-compressor, multiple-stage,
+exhausting to a feed water heater will show great economy, and the
+operating costs of a large plant of this type are very low compared
+with any other form of conveyor. This will be obvious when it is
+pointed out that maintenance costs on the conveyor are confined to
+renewals of bends and junctions in the pipe lines, and of flexible
+hose. There are no discharge valves or air locks to be kept vacuum
+tight, no filter strainers or sleeves to renew, and the power unit is
+not subjected to undue wear through extraneous matter entering the
+cylinders and scoring the walls or wearing the valves.
+
+Compared with other forms of mechanical conveying, the pneumatic
+induction system is very low in maintenance costs, while the serious
+charges incurred in employing human labour are reduced to a minimum.
+
+
+
+
+CHAPTER VII
+
+STEAM JET CONVEYORS
+
+
+A method of removing ashes from boiler furnaces which has been
+developed extensively in America is essentially a pneumatic system,
+although steam is the conveying medium instead of moving air. Steam
+is used because the apparatus is always in use on boiler plants, from
+which steam can be taken as conveying medium. No air compressor or
+other special plant is required. On the other hand, the simple use of a
+connection from the steam main is a matter of very little importance,
+and no check is ever made as to the amount of steam so used, hence 99
+per cent. of the users consider that the steam jet costs practically
+nothing for “power” compared with a compressor which would have a
+certain sized motor connected, and could not escape attention as an
+additional power consumer.
+
+
+=Steam Consumption.= Investigation into the actual consumption of steam
+jets would often give very startling results, especially after the
+plant had been in operation for some time and the nozzles had begun
+to cut and wear. As proof of the waste of steam possible in such a
+plant, it is interesting to note that Mr. David Brownlie, in a paper
+on Automatic Stokers,[1] gave results of actual tests made on steam
+jets as used in certain classes of stokers in which steam jets are
+allowed to blow down the hollow furnace bars. These tests showed that,
+whereas the makers estimated the steam consumption of the jets to be
+about 2 per cent. of the boiler output, the tests on 80 plants showed a
+consumption varying from 0·5 per cent. up to as much as 21·4 per cent.
+of the total output of boiler.
+
+As further evidence of the waste of steam that can occur due to neglect
+of the cutting effect on the nozzles, one American firm has designed
+an ingenious warning or “tell-tale.” A small hole is drilled almost,
+but not quite, through the nozzle. While the nozzle retains its initial
+shape and size the apparatus acts normally, but as soon as the small
+amount of metal covering the end of the hole has worn away, the hole
+is exposed, and a certain amount of steam passes through it to a
+steam whistle which blows continuously until a new nozzle has been
+inserted in place of the one which is now worn so much as to make it
+uneconomical in steam consumption.
+
+Provided that means are taken to prevent waste of steam due to worn
+nozzles, the steam jet conveyor is very serviceable and, being flexible
+and convenient, it is very useful for the purpose for which it has been
+developed.
+
+The following estimated steam consumptions are given for what they
+are worth; they are of comparative value in relation with the power
+consumption on the “suction” scheme: One firm claims, in an actual
+proposal for a plant to be erected in this country, a consumption of
+30 lbs. of steam per min. to deal with 150 lbs. of ashes per min., or
+4 tons per hr. This is approximately equivalent to 72 electrical h.p.
+for dealing with 4 tons of ashes per hr. A second firm states that a
+steam jet plant dealing with 12 tons per hr. will require 3,466 lbs. of
+steam per hr. at 130 lbs. pressure: this, if passed into a modern steam
+driven generator, would produce over 130 h.p. hours. These figures
+indicate how variable are the estimates of power required. _Note._—The
+“suction” schemes for wheat actually work out at slightly more than 1
+h.p. per ton per hr. in single-nozzle plants, and 1½ h.p. per ton per
+hr. in twin nozzle plants.
+
+
+=Lay-out of Plant.= The plant is usually designed on the following
+lines: Immediately under the ash hoppers are funnel-shaped tee-pieces
+fitted to a cast iron pipe laid on the floor, or preferably in a small
+trench just below the ground level. These funnel inlets are usually
+covered with a cap when not in use, a tight joint being established by
+the “suction” in the pipe line. When used on Lancashire boilers having
+no ash basement the ashes are raked from under the furnaces on to the
+floor, and swept into the inlets mentioned (see Fig. 25). Large pieces
+of clinker are broken by hand until they enter the intake pipe, when
+they are immediately conveyed through the rest of the system.
+
+[Illustration: FIG. 25.—BRADY STEAM JET ASH CONVEYOR.]
+
+In all large boiler houses with a proper ash basement it is usual to
+have a travelling clinker breaker, motor driven, which can be moved on
+light rails under each ash hopper and over each intake. The breaker
+receives all the ashes when released by the hopper valve, crushes them
+to a suitable size and discharges them by gravity over the intake
+funnels, whence they are transported to the ash tank or hopper.
+
+The method of creating the moving air currents is by passing steam
+through specially designed nozzles which are placed at the extreme end
+of the intake pipe, and force the air out of the pipe, thus inducing
+a stream of air to enter at the intake openings, and carry forward
+the ashes which have been fed into the pipe with the air. When the
+underground pipe has to rise vertically to cross roads, etc., or
+to reach an overhead tank, it is usually found necessary to insert
+“booster” jets to impart additional velocity to the ashes, which are
+naturally retarded seriously in changing their direction at the bend or
+elbow. Should circumstances necessitate many bends being employed in
+the pipe line the number of “booster” jets has to be increased, and the
+total cost of steam for operation is increased seriously.
+
+The capacity of the conveyor depends upon the volume of air passed
+through the pipe in a given time, and the ashes must not be slacked
+before handling, but must be handled either straight from the furnaces
+or allowed to cool and then conveyed to the ash hopper.
+
+An 8 in. pipe is the largest used, and this will handle approximately 8
+tons of ash per hour. Any increase over this size of pipe necessitates
+a consumption of steam which makes the scheme impracticable.
+
+The conveyor pipe may be run at any angle, elevation or level,
+and therefore is not handicapped by the rigid straight line,
+point-to-point, requirements of bucket elevators, skips, etc.
+
+The abrasive action of ashes is well known, and when they are
+travelling at the high speed necessary with this form of conveyor they
+cause considerable wear at the bends and elbows in the pipe line.
+To overcome this a special mixture of iron has been obtained, which
+is extremely hard and wear-resisting. Steel is quite unsuitable and
+ordinary cast iron is too soft for these conditions.
+
+
+=Steam Jets.= The James Brady Foundry Co. (Chicago, U.S.A.) state,
+in their Bulletin on this subject, that the special steam jet elbows
+are usually placed at the top and bottom of a vertical riser. The jet
+of steam from the nozzle enters the elbow directly in front of, and
+parallel to, the face of a special wearing liner. This prevents or
+reduces the wear on the liners, as the jet protects the liners from the
+pounding action of the ash. A renewable sectional liner is provided of
+specially hard metal at all points in which the material makes actual
+contact with the pipe or fittings. These liners are interchangeable in
+all elbows, and each individual liner can be turned end for end when
+affected by wear.
+
+In cases where the length of horizontal run exceeds 125 ft. it is
+necessary to supplement the primary nozzles by “booster” steam jets to
+maintain the velocity of the air current.
+
+
+=Buffer Boxes.= At the discharge end of the pipe line it is necessary
+to insert a baffle or buffer box to take the impact of the ashes, and
+thus prevent wear on certain parts that are not designed to stand up
+to the destructive effects of the impact. The function of the box is
+to bring the ashes to rest, so that they may fall by gravity into the
+ash tank or on to the storage pile. When delivering into a tank it is
+very essential to install a buffer box, as otherwise the velocity with
+which the ashes enter the tank will pack them so tightly that they will
+not discharge automatically through the valve or gate. The location of
+the ash hopper can be wherever most convenient for loading the vans,
+railway trucks, or barges, etc., but preference should be given to a
+site which makes possible a pipe run with a minimum number of bends.
+
+One American firm of engineers, the Vacuum Ash and Soot Conveyor Co.,
+New York, have done away with the numerous steam jets and the blowing
+effect produced thereby, and rely entirely on suction by using a sealed
+ash tank and exhausting the container and pipe system by means of a
+single steam jet injector built into the roof of the ash tank, and
+discharging its steam directly into the air.
+
+By this means it is claimed that the following advantages are obtained:
+(1) No sand-blast effect, such as is inevitable when blowing at high
+velocity. (2) No steam enters the ash tank and consequently there
+are no condensation troubles. (3) Much less dust is blown into the
+atmosphere as the steam is never in contact with the dust. (4) Conveyor
+pipes are cleaner since no steam enters them, as in “blowing,” and
+there is therefore no condensation, caking and corrosion.
+
+
+FOOTNOTES:
+
+[1] _Inst. Mechanical Engineers Journal_, March, 1920, p. 291.
+
+
+
+
+CHAPTER VIII
+
+MISCELLANEOUS APPLICATIONS OF PNEUMATIC CONVEYING
+
+
+=Pneumatic Despatch Tubes.= The ordinary pneumatic conveyor picks
+up material at one point and unloads it at another and continues
+this course consistently, whereas the “pneumatic despatch tube” is
+a conveyor of small articles enclosed in a special cartridge which
+is built to fit the tube and which travels to and fro as required,
+carrying a variety of articles, or if necessary, the same articles,
+backwards and forwards between the same two stations or a series of
+fixed stations.
+
+The despatch tube thus constitutes an effective “mechanical messenger.”
+One or more tubes are run between the points to be connected, with a
+despatch and receiving terminal at each end, or if necessary, a single
+line to operate in both directions can be designed. The tubes vary from
+1½ ins. to 4 ins. diameter, and they are also made of oval sections up
+to 4 ins. × 7 ins.; rectangular tubes have been installed in special
+installations, chiefly in telephone exchanges for convenience in
+dealing with certain cards there employed.
+
+
+=Tubes.= The tubes are of lead and are usually encased for protection
+against mechanical damage, and the erection is carried out with great
+care so as to preserve the smooth interior. Joints occur at intervals
+of 28 ft. or less, and are “wiped” with an ordinary plumber’s joint
+over an internal mandril which is heated previous to insertion in the
+tube. Air-tight joints and smooth interiors are absolutely essential to
+a successful installation.
+
+
+=Carriers.= The carriers or cartridges in which the material to be
+transmitted is placed are made of gutta-percha covered at the ends with
+felt. One end of the container is closed and the other end is left
+open, but a “skirt” of felt surrounds the open end, and, as this is the
+“trailing” end and the air pressure is behind it, the air forces open
+the “skirt,” making a tight fit and preventing leakage of air past the
+carrier. The nose of the carrier is usually fitted with a felt “buffer”
+which also assists in making an air-tight fit. A carrier for a 2½ in.
+tube is 6¾ ins. long and weighs empty about 3 ozs. Fig. 26 shows a
+large carrier.
+
+
+=Methods of Working.= Pneumatic tubes are worked either by air above
+atmospheric pressure or by reducing the pressure below atmospheric. In
+the pressure system the usual pressure is about 10 lbs. per sq. in.
+above atmospheric pressure, whilst in the suction system the vacuum
+employed is equivalent to about 6½ lbs. per sq. in.
+
+[Illustration: FIG. 26.—TYPICAL LAMSON INTERCOMMUNICATION CARRIER.]
+
+Also, the method of working may be either “continuous” or
+“intermittent”; in the first system the air, either above or below
+atmospheric pressure, is circulating continuously and the cartridge
+or carrier is inserted into a stream of air already in circulation,
+whilst in the “intermittent” system the power, either pressure or
+suction, is admitted to the conveyor tube only after the carrier has
+been inserted, and it is again cut off when the carrier reaches the end
+of its journey.
+
+To a great extent the success of a pneumatic tube system is the speed
+at which it can transmit the message sent by this means. In the
+“continuous” system, working above atmospheric pressure, the speed is
+not so great as in the “intermittent” scheme, because the pressure in
+the tube is the same in front of and behind the carrier, which has
+to displace the air in front of it. In the “intermittent” system the
+pressure is turned on after the carrier is in place, and the advancing
+carrier has only to move the air at atmospheric pressure. On the other
+hand, if suction is employed, the “intermittent” system is slower
+than the “continuous” system because the air has to be exhausted to a
+certain point before the carrier begins to travel. It is true that it
+will begin to move as soon as the difference in pressure amounts to a
+few ounces, but there is a distinct “time lag” compared with inserting
+the cartridge into a tube continuously exhausted when it starts off at
+practically full pressure and speed immediately.
+
+The difference in time is stated by Kemp to be 3 per cent. longer with
+“continuous” pressure, compared with “intermittent” pressure at 6 lbs.
+per sq. in.; the difference increasing to 6 per cent. when the pressure
+is raised to 14 lbs. per sq. in. The average working speed of these
+tubes is from 25 to 30 miles per hour.
+
+
+=Power Required for Operation.= It is difficult to determine the actual
+amount of power necessary to carry a cartridge through a tube. _Kemp’s
+Engineer’s Year Book_ states that, working at the standard pressure
+of 10 lbs. per sq. in., the power required is theoretically 3·35 h.p.
+for a 2½ in. tube, 1 mile long, but actual experience suggests that at
+least 50 per cent. should be added to allow for losses from various
+causes, making the actual power, say, 5 h.p. per 2½ in. tube per mile.
+
+Pressure receivers or tanks are inserted between the pump and the
+travelling tube to compensate for the impulses due to the irregularity
+of the pumps and also to act as reservoirs furnishing additional power
+during periods of abnormal working.
+
+The vacuum system takes less power (for a definite time of
+transmission) than is required by the pressure method of working,
+but local conditions always influence results considerably, and it
+is inadvisable to give any definite figure as to the power required,
+without actual knowledge of the system and conditions involved.
+
+The air compressors are usually driven electrically, but they can, of
+course, be operated by any other prime mover such as oil, gas, or steam
+engines. It is economical to combine the pressure and suction systems
+by arranging the air compressor to draw air from the vacuum receiver
+into the compressor cylinders whence it is returned to the pressure
+line.
+
+Automatic valves keep the pressures in the pressure and vacuum sides
+of the system within pre-determined limits. “Make up” air is admitted
+by the automatic opening of an atmospheric valve when the pressure
+side of the system is low and the vacuum side high, so that the pump
+is deprived of sufficient air to operate the system efficiently.
+Should the conditions become reversed, that is, a low vacuum and a
+high pressure, then the pump is working against a high back pressure,
+and this is reduced by the opening of an atmospheric relief valve
+which remains open until the vacuum is restored to normal pressure.
+This system is preferable to and more economical than the use of two
+separate pumping and exhausting machines.
+
+Elaborate and valuable tables of horse-power required by compressors
+and of “transit times” for distances up to 4,500 yds. with 1½ in., 2¼
+in., and 3 in. tubes are given in _Kemp’s Engineer’s Year Book_.
+
+The Lamson Tube Co., Ltd., have brought what was originally invented as
+a means of conveying persons to a practical business accessory, capable
+of saving a great amount of time by despatching sketches, papers, small
+articles, money, etc., here, there, and everywhere at the rate of 30
+miles an hour.
+
+The utility of these plants has long been recognised by banking
+establishments, the General Post Office, large stores, factories,
+newspaper publishing offices, etc. (see Figs. 27 and 28).
+
+In addition to the conveyance of messages and papers, they are
+frequently installed to convey money and bills from the numerous
+departments of a large store to the cashiers, thus saving time and
+effecting economy in labour and floor space. One cashier can attend to
+from 10 to 15 stations, or in small establishments all the stations can
+be centralized around the book-keeper.
+
+The installation of a power-driven plant is not essential, providing
+that the service required is not too great. A foot power pneumatic
+service is available and it is in use in many business establishments.
+In this system the methods of transportation are similar to those in
+a power plant, but the tubes are brought to a special cabinet 15 ins.
+square by 2 ft. 6 ins. high, in which is mounted a foot-operated pump
+of patented design without bellows or cords. The pump is operated
+as and when the service is required, and there is no loss of any
+description when the apparatus is not in use.
+
+
+=Pneumatic Tubes for Heavy Articles.= It is interesting to recall,
+especially in view of the proposed use of pneumatically-propelled
+parcel-conveying trains by the G.P.O. in London, the proposal made by
+Mr. Medhurst, in 1810, when it was suggested that a carriage somewhat
+similar to the modern railway carriage should be moved through a
+tunnel by pneumatic means. So long ago as 1667, Denin Papin read before
+the Royal Society a paper entitled “A Double Pneumatic Pump,” and
+definite mention of despatch tubes was made in this paper.
+
+[Illustration: FIG. 27.—TUBE CENTRAL IN WHOLESALE DRUG HOUSE,
+DISTRIBUTING ORDERS TO ALL DEPARTMENTS.]
+
+[Illustration: FIG. 28.—LAMSON DISTRIBUTING STATION IN WELL-KNOWN
+PUBLISHING HOUSE.]
+
+In 1840 a pneumatic railway was actually built and worked between
+London and Croydon, and in view of its success was followed by others
+between Dalkey and Kingstown and between Exeter and Plymouth. From this
+it will be seen that transportation by pneumatic means is not modern in
+its application, and was originally intended for very large tubes and
+weights, but modern development has been toward small tubes and light
+weights.
+
+
+=The Vacuum Cleaner.= The pneumatic transporting of material in the
+form of dust has been brought to a very high state of perfection during
+recent years and an enormous number of plants is now in use, ranging
+from the hand-propelled machine to very large stationary equipments.
+
+Certain hand-propelled machines have been constructed in such a way
+that the fan is directly operated by gearing from the running wheels,
+and after a few moments a very considerable speed is attained and the
+suction of the fan is used for lifting the dust from the surface over
+which the apparatus is travelling.
+
+Numerous designs of more powerful machines actuated by hand bellows
+have been placed on the market and these possess the advantage that
+they are independent of the use of power; but it is not altogether easy
+to operate a machine by one hand and to manipulate the nozzle with the
+other.
+
+Electrically driven machines of almost numberless designs are
+available. These usually employ a high speed fan of the single-stage
+type, but a piston pump is embodied in some designs.
+
+In the removal of dust the same principle applies as in the conveying
+of heavier materials, i.e. it is not so imperative to obtain a high
+vacuum as it is to have a large volume of air moving at high velocity,
+hence the multi-stage turbine machine has distinct advantages as
+regards weight of material moved and economy of power.
+
+The multi-stage exhauster consists of turbine wheels mounted on a
+single shaft, the air being drawn into the first wheel, from this
+to the second wheel and so on right through the machine, each wheel
+increasing the suction on the intake end according to the total number
+of wheels or stages. This style of machine is procurable in either the
+stationary or portable type, and in both it is made in various sizes,
+the portable machines ranging from 1/12 h.p. up to ½ h.p. for domestic
+purposes, and from 1½ to 3 h.p. on trucks for cleaning electrical
+machinery, railway carriages, etc. Figs. 29 and 30 illustrate typical
+stationary and portable plants respectively.
+
+[Illustration: FIG. 29.—STATIONARY TURBO-EXHAUSTER WITH DUST SEPARATOR.]
+
+[Illustration: FIG. 30.—PORTABLE TURBO-EXHAUSTER DRIVEN BY 1½ H.P. D.C.
+MOTOR.]
+
+It is not generally recognized what enormous amounts of dust and dirt
+may be extracted by these machines. From one London hotel a ½ h.p.
+cleaner removed 166 lbs. of dust from the carpets of the public
+rooms only. On a cleaning test in a first class dining car on one of
+the English railways 25 lbs. of dust was removed from 38 sq. yds. of
+carpet. A rug in front of a lift in a London stores yielded 91 lbs. 1
+oz. of dirt to a small machine.
+
+The stationary plants are usually installed in the basements of large
+office buildings, theatres, hotels, clubs, etc., and the whole building
+is piped suitably, wall plugs or connectors being fitted to which the
+staff make connection by flexible hose as and when required. The free
+end of the flexible hose is fitted with one or other of a series of
+special nozzles, the latter being adapted to the varying requirements
+of everything in the room from floor to ceiling.
+
+With the portable hand sets or even with the larger truck type,
+the design is complete as a working unit; the equipment is used as
+manufactured and there is little or no chance for the user to endanger
+the working efficiency of the plant. In permanent plants, however, as
+installed in hotels, etc., it is necessary that all points previously
+mentioned regarding pipe lines, valves, junctions, bends, etc., should
+be considered and acted upon.
+
+The pipe lines should be too large rather than restricted in any
+way, the suction flexible should be kept as short as possible, and
+if necessary extra connections should be allowed rather than require
+flexibles too long for use without “kinking.”
+
+[Illustration: FIG. 31.—SUCTION CLEANING FOR RAILWAY CARRIAGE CUSHIONS.]
+
+[Illustration: FIG. 32.—STURTEVANT EQUIPMENT FOR OFFICE CLEANING.]
+
+Fig. 31 illustrates a stationary suction cleaning plant applied to
+cleaning railway carriage cushions, and Fig. 32 shows a similar
+installation in use in an office building.
+
+
+=Cleaning by Air Blast.= By transferring the hose from the suction
+side to the discharge, a suction cleaner may be used to blow dust from
+machinery of all kinds and from places that are high up and cannot be
+cleaned economically by suction. For cleaning electric generators and
+motors by blast, these machines have many advantages, and on account of
+the large volume of air handled they are much to be preferred to the
+small-volume high pressure jet of the ordinary air compressor often
+used for this purpose. With the portable turbo-blower there is no
+danger of damage to the insulation through high pressure, or through
+the carrying of moisture and oil into the windings with the air jet.
+
+
+=Pumping by Compressed Air.= Although, generally speaking, the
+raising of water by compressed air is not an economical method, it is
+frequently adopted in mining and tunnelling where the use of steam or
+electricity is objectionable. In these cases, cost of operation is a
+minor factor, and it may be interesting to give a few particulars of
+this form of pneumatic conveying.
+
+The simplest form of compressed air pump consists of a closed chamber
+or tank immersed in the water, to be raised or fixed at such a level
+that the water will flow into the tank. An air pipe is connected to
+the top of the chamber, and the rising main is carried inside the tank
+to the bottom. On opening the air valve, pressure is exerted on the
+surface of the water in the tank, and the water is expelled through the
+lift pipe or rising main. On closing the air valve, water again fills
+up the tank, and the process is repeated.
+
+A decided improvement on this pump is the return air pump, which
+consists of two closed chambers connected through valves with the
+rising main. The compressed air pipe passes through a two-way valve,
+either into one tank or the other, this valve being positively
+operated. The method of working is similar to that of the single acting
+pump, considering each chamber separately, but one tank is filling
+while the other is being emptied.
+
+The air expelled from the filling tank, instead of being discharged
+to atmosphere, and part of its expansive power lost, is carried back
+through the pipe, which would be the air intake pipe when discharging,
+through a port in the two-way valve, and into the compressor intake
+pipe. The air leaving the filling tank is naturally above atmospheric
+pressure, and assists the piston on entering the compressor, thus
+reducing the power absorbed in driving the latter.
+
+
+=Air-lift Pumping.= The air-lift pump is a common means of conveying by
+pneumatic means and should not be confused with the above methods of
+raising water by compressed air.
+
+In the air-lift method of pumping air under pressure is admitted at the
+foot of a pipe already submerged in the well. The air does not merely
+bubble through the water, as might be supposed, but passes up the pipe
+as a mixture of air and water. The introduction of the air into the
+rising column of water makes the latter as a whole less dense than
+the water around the tube, and therefore we have a difference in head
+between the internal and external columns of water which will carry the
+internal column considerably higher than the external column.
+
+As the lifting force depends upon the “head” of water outside the
+rising main, it follows that the maximum height to which the water can
+be raised depends upon the depth to which the air pipe and rising main
+are submerged below the standing level of the water in the bore-hole.
+In other words, the greater the lift, the greater the depth to which
+the air pipe must be carried before releasing the air into the rising
+main.
+
+Experience shows that the water pipe should be submerged 18 ins. for
+every 1 ft. lift above the water level in the bore-hole, and allowance
+must be made for the “depression” of the water level in the bore-hole,
+which will probably take place when pumping is in progress. This
+depression will vary according to the water bearing capacity of the
+strata, in which the hole has been bored, hence it is necessary to go
+carefully into the conditions before boring the hole. If available,
+data should be studied concerning the standing water level, and the
+pumping depression in other bore-holes in the immediate neighbourhood.
+Also tests should be made before the boring machinery is removed
+because, although the initial depth of bore-hole may be satisfactory
+on the basis of standing level calculations, it may be found that when
+pumping the depression is so great that the bore-hole has to be carried
+to a greater depth.
+
+The air is supplied at a pressure suitable for the conditions, and can
+be carried down a separate tube and connected to the rising main at the
+correct depth (Fig. 33), or, as is often done, one pipe may be lowered
+and the rising main supported centrally inside the casing tube, the
+annular space between the two being used as the air pipe (see Fig. 34).
+
+The amount of free air required is from 0·6 to 1·0 cu. ft. per gallon
+of water raised per min., provided that all the details have been
+studied carefully and the design of the plant worked out accordingly.
+
+If the air pipe is too small the air will bubble slowly through the
+water, while if it is too large it will blow out with great force,
+spraying and losing the water: the ratio between the cross-sectional
+area of the air and water pipes is about 1½ to 4.
+
+Advantages of air-lift pumping are that a greater amount of water can
+be obtained from a hole of given size than by ordinary pumping; and
+that one compressing plant can deal with several wells instead of
+needing a separate pump to each well.
+
+AIR-LIFT PUMPING
+
+[Illustration: FIG. 33.—AIR PIPE OUTSIDE RISER.]
+
+[Illustration: FIG. 34.—AIR BETWEEN CASING AND RISER.]
+
+The disadvantages are, that the mechanical efficiency is low; that
+a considerable amount of air is entrained in the water, and aerated
+water is very unsuitable for boiler feed purposes; and that means
+must be provided to allow air to escape by passing the discharge from
+the pump over a weir or similar contrivance. It is necessary to have
+some reliable form of oil trap between the compressor and the well to
+prevent contamination of the water by oil carried over by the air from
+the cylinders of the compressor; this is difficult, because the oil is
+not only “atomized” but is actually vaporized while in the compressor
+cylinders and as a gas it is difficult to reclaim. The air must be kept
+as low in temperature as possible, and it is usually passed through a
+cooler before being delivered down the well.
+
+At times, air-lifts are installed for conveying other liquids to a
+height, and when these can be treated at a high temperature it is
+advisable, as the efficiency is then much improved. Even under these
+conditions it is advisable to cool the air to the lowest feasible
+temperature, before using it as a lifting medium.
+
+When starting up, the column of water in the rising main has to be
+moved as a solid column, and consequently a higher pressure of air is
+required at starting than when the column has been set in motion, as
+the water and air then pass up in alternative “pellets.”
+
+In chemical works and allied industries this pneumatic method is
+frequently used for pumping acids, and other corrosive liquids from
+one place to another. Compressed air is a very handy medium for this
+class of work as ordinary mechanical methods are ruled out, due to
+the impossibility of introducing corrosive liquids into the pumps and
+syphons unless great expense is incurred by the use of acid-proof
+materials.
+
+The air-lift is also very advantageous for pumping water which contains
+a large amount of sand or similar gritty material which would cut
+and score the walls of an ordinary piston pump. Air-lift pumping is
+frequently used, therefore, on new bore-holes until the sand, etc., has
+been eliminated, after which the final pump can be installed without
+fear of damage.
+
+The question of submergence will frequently make it impossible to
+use air-lift without boring many feet deeper than would otherwise
+be necessary, but when the water bearing strata is low this form of
+pumping is frequently very convenient.
+
+
+=Miscellaneous Applications of Pneumatic Conveying.= Several other
+interesting applications of pneumatic conveying may be enumerated but,
+being somewhat outside the primary scope of this book, they will not be
+discussed in detail. The main object of the author is to raise interest
+in the handling of solid materials in a manner practically unknown to
+the general reader.
+
+The housing problem has developed the _pneumatic handling of cement_
+in a liquid form, and houses are now being built of reinforced cement
+in the following manner. An expanded steel frame is supported between
+concrete or brick piers, and on wood sheeting where necessary, and
+liquid cement is blown on to the metal in the form of a liquid spray:
+the first coat dries quickly and leaves a certain amount of cement
+covering the framework. Then follows another coat, and again another
+and so on, until the whole of the framework has been covered to an
+appreciable thickness. The result is a thin wall or slab of cement
+reinforced with the steel and of great combined strength. Slightly
+domed roofs constructed in this manner have proved very strong and
+durable.
+
+The _Aerograph_ is an instrument working on the same principle for the
+application of paint, and it is used a great deal in the art world, in
+the manufacture of Christmas cards, in panel painting, and in interior
+decoration generally. Excellent “tones” and shades are obtained by the
+simple method of varying the thickness of the colour or the number of
+coats applied. It is usual to convey the surplus colour and fumes away
+from the operator by means of a stream of air through a special hood
+placed at the back of the work, thus maintaining clean pure air for the
+operator.
+
+A similar machine of more crude design is used for whitewashing
+walls of stables, cattle pens, etc. All these plants comprise an air
+compressor, either power or hand operated, from which the air is led
+to a special injector which draws up through a second pipe a certain
+amount of the material to be sprayed. The paint or other material is
+then atomized and impelled with considerable force on to the surface to
+be covered.
+
+The _sand blast_ is another application of pneumatic conveying in
+which the medium conveyed is sand, which has well-known cutting and
+erosive effects when it impinges on a surface at high velocity. This
+plant is used for decorating glassware, obscuring sheet glass, and also
+for cleaning stone buildings by the actual removal of the face of the
+previously discoloured stone.
+
+The _pneumatic conveyance of energy_ is exemplified by rock drills,
+riveting machines, coal-cutters and innumerable other portable tools.
+Energy is expended in compressing air which is transmitted through
+pipes and made to yield its stored energy by driving the air motors of
+the tools or other apparatus in question.
+
+
+=Conclusion.= Enough has been said to show that pneumatic conveying
+has made great progress, and that the possibilities of this method of
+dealing with the moving of solid materials are much greater than has
+been generally recognized.
+
+Almost anything that will enter a pipe up to about 9 ins. diameter can
+be conveyed in this way, either by “blowing” or “suction” or by the
+“induction” method.
+
+Weight and size is an advantage rather than otherwise, and bricks can
+be dealt with more successfully than flour. The writer’s experience,
+in the results of actual working with pneumatic conveying, indicates
+that no problem should be considered too difficult to be tackled by
+this method, and that even the most unlikely materials can be conveyed
+successfully by pneumatic means.
+
+
+
+
+BIBLIOGRAPHY
+
+
+Readers wishing to amplify their knowledge of pneumatic conveying may
+find useful the following references—
+
+ “Pneumatic Dispatch,” by H. R. Kemp, M.I.C.E., M.I.E.E., M.R.M. Paper
+ before the Inst. of Post Office Engineers. October, 1909.
+
+ “Power Plant for Pneumatic Tubes in the Post Office,” by A. B. Eason,
+ M.A., A.M.I.E.E. Paper before the Inst. of Post Office Engineers. 18th
+ October, 1913.
+
+ “Portable Plant.” Editorial article in _Cassier’s Engineering
+ Monthly_, June, 1919.
+
+ “Pneumatic Handling Machinery.” _Engineering and Industrial
+ Management_, 5th June, 1919.
+
+ “History of Conveying,” by G. F. Zimmer, A.M.I.C.E. _Engineering and
+ Industrial Management_, July to Sept., 1920.
+
+ “Boots as Power Users,” by E. G. Phillips, M.I.E.E., A.M.I.Mech.E.,
+ describing the coal handling plant used by Messrs. Boots Pure Drug
+ Co., Ltd., Nottingham. _Power User_, March, 1920.
+
+ “Pneumatic Handling Installation for Calcium Sulphide,” by G. F.
+ Zimmer, A.M.I.C.E. _Chemical Age_, 10th April, 1920.
+
+ “Pneumatic Conveying of Granular Substances, including Chemicals,” by
+ G. S. Layton. Paper before the Society of Chemical Industry, Third
+ Conference (Birmingham), 23rd April, 1920.
+
+ “Pneumatic Conveying of Coal and Similar Substances,” by J. H. King,
+ M.I.Mech.E. Paper before the Society of Chemical Industry, Third
+ Conference (Birmingham), 23rd April, 1920.
+
+Instructive catalogues on this and allied subjects are issued by
+the following firms (amongst others): Messrs. Ashwell & Nesbit,
+Ltd., Leicester; R. Boby, Ltd., Bury St. Edmunds; H. J. King & Co.,
+Nailsworth, Gloucester; The Lamson Store Pneumatic Co., Ltd., London;
+and The Sturtevant Engineering Co., Ltd., London.
+
+
+
+
+INDEX
+
+
+  Advantages of system, 5
+
+  Aerograph, 101
+
+  Air compressors, 67, 70, 71
+
+  —— filters, 10, 21-27
+
+  —— induction, 63
+
+  —— lift, advantages, 97
+
+  —— ——, air required, 97
+
+  —— —— “depression,” 96
+
+  —— —— pumping, 95-100
+
+  —— —— submergence, 96, 100
+
+  —— receivers, 69
+
+  —— reheating, 68, 69
+
+  —— velocity, 36
+
+  “Aquadag,” 20
+
+  Ash handling, 58, 74-77
+
+
+  Bag filters, 22-24
+
+  Bends and elbows, 34, 35, 67
+
+  Bibliography, 105
+
+  “Blowing” system, 4
+
+  Breaking of materials, 34, 35, 67
+
+  Buffer boxes, 78
+
+
+  Capacity of pipe lines, 36
+
+  Cement handling plants, 101
+
+  Cleaning with air blast, 94
+
+  Coal-handling plants, 54-58, 60, 61
+
+  Comparative costs, 53
+
+  Conveying above atmospheric pressure, 6
+
+  —— below atmospheric pressure, 6
+
+  —— above and below atmospheric pressure, 6, 64-66
+
+  Cyclone separators, 21
+
+
+  Design, factors influencing, 8
+
+  Despatch tubes, 80, 81
+
+  Dischargers design, 10, 28-32, 56, 57
+
+  —— difficulties, 9
+
+  —— valves, 28, 31, 32, 56, 58
+
+
+  Exhausters, 10, 14
+
+
+  Factors influencing design, 8
+
+  Flexibility, 5
+
+  Flexible suction pipes, 36
+
+  Floating plants, 3, 46, 51, 59-61
+
+  Flue cleaning, 59
+
+  Foot power pumps, 86
+
+  Fundamental principles, 3
+
+
+  Grain-handling, 45, 47
+
+
+  Heavy commercial systems, 7
+
+  High pressure systems, 6, 39
+
+  Historical, 1, 2
+
+
+  “Induction” system, 4, 6, 62-66
+
+  “Intermittent” tube system, 81, 83
+
+
+  Junctions in pipe lines, 33
+
+
+  King’s exhauster, 10-14
+
+  —— three-way valve, 37
+
+  “Kinking” to be avoided, 92
+
+
+  Large pipe systems, 7
+
+  Lime washing, 101
+
+  Low pressure systems, 6
+
+  Lubrication, 20
+
+
+  Materials, breaking of, 34, 35, 67
+
+  Mollers’ air filter, 24
+
+
+  Nash hydro-turbine, 18, 19
+
+  Nozzles (suction), 10, 40-43
+
+
+  Oil contamination, 11
+
+
+  Pipe lines, 10, 33, 36, 39
+
+  —— ——, capacity of, 36
+
+  Pneumatic tube carriers, 81, 82
+
+  —— ——, “continuous,” 81, 83
+
+  —— —— foot power, 86
+
+  —— ——, “intermittent,” 81, 83
+
+  —— ——, power required, 84, 85
+
+  —— —— pressure system, 81, 85
+
+  —— —— vacuum system, 84
+
+  Portable quay-side plant, 5
+
+  —— railway plant, 49-51
+
+  —— vacuum cleaners, 92
+
+  Power required, 44
+
+  Pressure systems, 4, 6
+
+  Pumping by compressed air, 94, 95
+
+
+  Quayside plants, 51
+
+
+  Reheating compressed air, 68, 69
+
+  Rotary blowers, 14, 15
+
+
+  Sand-blasting, 102
+
+  Stationary plants, vacuum, 92
+
+  Steam consumption, 72-74
+
+  —— jet conveyors, 72, 74, 76
+
+  —— jets, 77
+
+  —— jets, economy of, 72, 73
+
+  Sturtevant blowers, 16, 17
+
+  “Suction” nozzles, 10, 40-43
+
+  —— systems, 4-7
+
+  Systems, advantages of, 5
+
+
+  Telescopic pipes, 38
+
+  Turbo-blowers, 11
+
+
+  Vacuum cleaners, 89
+
+  —— ——, tests, 92
+
+  —— required, 3
+
+  Valves in pipe line, 37
+
+  Velocity of air in pipes, 36
+
+
+  Water pumping, 95-100
+
+  Waterside plants, 45, 47, 48, 59
+
+  Wear of pipes and bends, 34, 35
+
+  Wet air filters, 25-27
+
+
+_Printed by Sir Isaac Pitman & Sons, Ltd., Bath, England_
+
+
+
+
+  Transcriber’s Notes
+
+  pg 59 Changed: await the convenience of the wagons
+             to: await the convenience of the waggons
+
+  pg 69 Changed: practice to instal an efficient separator
+             to: practice to install an efficient separator
+
+
+
+
+        
+            *** END OF THE PROJECT GUTENBERG EBOOK PNEUMATIC CONVEYING ***
+        
+
+    
+
+Updated editions will replace the previous one—the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg™ electronic works to protect the PROJECT GUTENBERG™
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away—you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase “Project
+Gutenberg”), you agree to comply with all the terms of the Full
+Project Gutenberg™ License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project Gutenberg™
+electronic works
+
+1.A. By reading or using any part of this Project Gutenberg™
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg™ electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg™ electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the person
+or entity to whom you paid the fee as set forth in paragraph 1.E.8.
+
+1.B. “Project Gutenberg” is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg™ electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg™ electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg™
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation (“the
+Foundation” or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg™ electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg™ mission of promoting
+free access to electronic works by freely sharing Project Gutenberg™
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg™ name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg™ work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg™ License must appear
+prominently whenever any copy of a Project Gutenberg™ work (any work
+on which the phrase “Project Gutenberg” appears, or with which the
+phrase “Project Gutenberg” is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+    This eBook is for the use of anyone anywhere in the United States and most
+    other parts of the world at no cost and with almost no restrictions
+    whatsoever. You may copy it, give it away or re-use it under the terms
+    of the Project Gutenberg License included with this eBook or online
+    at www.gutenberg.org. If you
+    are not located in the United States, you will have to check the laws
+    of the country where you are located before using this eBook.
+  
+1.E.2. If an individual Project Gutenberg™ electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase “Project
+Gutenberg” associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg™ electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg™ License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg™
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg™.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg™ License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg™ work in a format
+other than “Plain Vanilla ASCII” or other format used in the official
+version posted on the official Project Gutenberg™ website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original “Plain
+Vanilla ASCII” or other form. Any alternate format must include the
+full Project Gutenberg™ License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg™ works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg™ electronic works
+provided that:
+
+    • You pay a royalty fee of 20% of the gross profits you derive from
+        the use of Project Gutenberg™ works calculated using the method
+        you already use to calculate your applicable taxes. The fee is owed
+        to the owner of the Project Gutenberg™ trademark, but he has
+        agreed to donate royalties under this paragraph to the Project
+        Gutenberg Literary Archive Foundation. Royalty payments must be paid
+        within 60 days following each date on which you prepare (or are
+        legally required to prepare) your periodic tax returns. Royalty
+        payments should be clearly marked as such and sent to the Project
+        Gutenberg Literary Archive Foundation at the address specified in
+        Section 4, “Information about donations to the Project Gutenberg
+        Literary Archive Foundation.”
+    
+    • You provide a full refund of any money paid by a user who notifies
+        you in writing (or by e-mail) within 30 days of receipt that s/he
+        does not agree to the terms of the full Project Gutenberg™
+        License. You must require such a user to return or destroy all
+        copies of the works possessed in a physical medium and discontinue
+        all use of and all access to other copies of Project Gutenberg™
+        works.
+    
+    • You provide, in accordance with paragraph 1.F.3, a full refund of
+        any money paid for a work or a replacement copy, if a defect in the
+        electronic work is discovered and reported to you within 90 days of
+        receipt of the work.
+    
+    • You comply with all other terms of this agreement for free
+        distribution of Project Gutenberg™ works.
+    
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg™ electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg™ trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg™ collection. Despite these efforts, Project Gutenberg™
+electronic works, and the medium on which they may be stored, may
+contain “Defects,” such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the “Right
+of Replacement or Refund” described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg™ trademark, and any other party distributing a Project
+Gutenberg™ electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you ‘AS-IS’, WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg™ electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg™
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg™
+
+Project Gutenberg™ is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg™’s
+goals and ensuring that the Project Gutenberg™ collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg™ and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at www.gutenberg.org.
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation’s EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state’s laws.
+
+The Foundation’s business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation’s website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg™ depends upon and cannot survive without widespread
+public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular state
+visit www.gutenberg.org/donate.
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate.
+
+Section 5. General Information About Project Gutenberg™ electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg™ concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg™ eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org.
+
+This website includes information about Project Gutenberg™,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
+
