@@ -2,7 +2,7 @@
 
 ## Synonym Test Solver
 
-This project automates synonym testing using Word2Vec embeddings. It trains models on provided text data and evaluates their ability to identify correct synonyms. The models are trained using books from project gutenberg which are free to download. The more books you add the more precise and accurate the models become. This is for task 3 of the assignment.
+This project automates synonym testing using multiple pre-trained and custom word embedding models. For the custom models, It trains the system on provided text data acquired from books available on Project Gutenberg. All of the models' performances in identifying synonym words are analyzed and compared.
 
 ## Files Organization
 |-- books/
